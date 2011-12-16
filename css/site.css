@@ -48,8 +48,18 @@ a.zoomout {
     border-radius: 6px 6px 6px 6px;
     box-shadow: 2px 2px 22px #DDDDDD;
 }
-.wax-popup share-popup{
+.share-popup{
+    margin-top: 5px !important; 
+    width: 600px !important;
+    max-width: 600px !important;
     height: 200px !important;
+    left: none !important;
+    right: 15px; 
+    background-color: white;
+    background-repeat: no-repeat;
+    border: 1px solid #BBB;
+    border-radius: 6px 6px 6px 6px;
+    box-shadow: 2px 2px 22px #DDDDDD;
 }
 a.close {
     margin: 6px;
