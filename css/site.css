@@ -1,7 +1,5 @@
 #themap { border: 1px #ccc solid; }
-h1 {
-    font-size: 12pt; 
-}
+
 .info { height: 300px; width:250px; float:right; border: 1px #ccc dashed; }
 #zoomer { padding: 10px; margin-top: 14px; }
 .zoomer { 

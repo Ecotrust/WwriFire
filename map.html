@@ -32,32 +32,40 @@
 	<!-- AddThis Button END -->
         </div>
         <div id="explore-popup" style="display:none;" class="wax-popup wax-tooltip">
-            <h1>Explore the Map</h1>
-            <p> Map details, data downloads, metadata, etc. </p>
 	    <h2>Map Details</h2>
-            <h2><img src="img/download.png" /> Download</h2>
+        <h3>Projects:</h3>
+        <p>Whole-Watershed Restoration Initiative (WWRI) project points and statuses.</p>
 	    <table>
-		<tr>
-		    <td>Watersheds:</td>
-		    <td><a href="http://geonode.labs.ecotrust.org/geoserver-geonode-dev/wfs?typename=geonode%3AWWRI_FWshd_20101008&outputFormat=csv&request=GetFeature&service=WFS">CSV</a> |</td>
-                    <td><a href="http://geonode.labs.ecotrust.org/geoserver-geonode-dev/wfs?typename=geonode%3AWWRI_FWshd_20101008&outputFormat=excel&request=GetFeature&service=WFS">Excel</a> |</td>
-                    <td><a href="http://geonode.labs.ecotrust.org/geoserver-geonode-dev/wms/kml?layers=geonode%3AWWRI_FWshd_20101008&mode=download">KML</a> |</td>
-		    <td><a href="http://geonode.labs.ecotrust.org/data/geonode:WWRI_FWshd_20101008">Other Formats</a></td>
-		</tr>
-                <tr>
-                    <td>Basins:</td>
-                    <td><a href="http://geonode.labs.ecotrust.org/geoserver-geonode-dev/wfs?typename=geonode%3AWWRI_Pbasins_20101008&outputFormat=csv&request=GetFeature&service=WFS">CSV</a> |</td>
-                    <td><a href="http://geonode.labs.ecotrust.org/geoserver-geonode-dev/wfs?typename=geonode%3AWWRI_Pbasins_20101008&outputFormat=excel&request=GetFeature&service=WFS">Excel</a> |</td>
-                    <td><a href="http://geonode.labs.ecotrust.org/geoserver-geonode-dev/wms/kml?layers=geonode%3AWWRI_Pbasins_20101008&mode=download">KML</a> |</td>
-                    <td><a href="http://geonode.labs.ecotrust.org/data/geonode:WWRI_Pbasins_20101008">Other Formats</a></td>
-                </tr>
-                <tr>
-                    <td>Projects:</td>
-                    <td><a href="http://geonode.labs.ecotrust.org/geoserver-geonode-dev/wfs?typename=geonode%3Awwri&outputFormat=csv&request=GetFeature&service=WFS">CSV</a> |</td>
-                    <td><a href="http://geonode.labs.ecotrust.org/geoserver-geonode-dev/wfs?typename=geonode%3Awwri&outputFormat=excel&request=GetFeature&service=WFS">Excel</a> |</td>
-                    <td><a href="http://geonode.labs.ecotrust.org/geoserver-geonode-dev/wms/kml?layers=geonode%3Awwri&mode=download">KML</a> |</td>
-                    <td><a href="http://geonode.labs.ecotrust.org/data/geonode:wwri">Other Formats</a></td>
-                </tr>
+            <tr>
+                <td><img src="img/download.png" /> Download</td>
+                <td><a href="http://geonode.labs.ecotrust.org/geoserver-geonode-dev/wfs?typename=geonode%3Awwri&outputFormat=csv&request=GetFeature&service=WFS">CSV</a> |</td>
+                <td><a href="http://geonode.labs.ecotrust.org/geoserver-geonode-dev/wfs?typename=geonode%3Awwri&outputFormat=excel&request=GetFeature&service=WFS">Excel</a> |</td>
+                <td><a href="http://geonode.labs.ecotrust.org/geoserver-geonode-dev/wms/kml?layers=geonode%3Awwri&mode=download">KML</a> |</td>
+                <td><a href="http://geonode.labs.ecotrust.org/geonetwork/srv/en/csw?outputschema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&service=CSW&request=GetRecordById&version=2.0.2&elementsetname=full&id=62ca1b36-0594-11e1-aa6d-000c295c828d">Metadata</a> |</td>
+                <td><a href="http://geonode.labs.ecotrust.org/data/geonode:wwri">More</a></td>
+            </tr>
+        </table>
+        <h3>Watersheds:</h3>
+        <p>WWRI Watershed data.</p>
+        <table>
+            <tr>
+                <td><a href="http://geonode.labs.ecotrust.org/geoserver-geonode-dev/wfs?typename=geonode%3AWWRI_FWshd_20101008&outputFormat=csv&request=GetFeature&service=WFS">CSV</a> |</td>
+                <td><a href="http://geonode.labs.ecotrust.org/geoserver-geonode-dev/wfs?typename=geonode%3AWWRI_FWshd_20101008&outputFormat=excel&request=GetFeature&service=WFS">Excel</a> |</td>
+                <td><a href="http://geonode.labs.ecotrust.org/geoserver-geonode-dev/wms/kml?layers=geonode%3AWWRI_FWshd_20101008&mode=download">KML</a> |</td>
+                <td><a href="http://geonode.labs.ecotrust.org/geonetwork/srv/en/csw?outputschema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&service=CSW&request=GetRecordById&version=2.0.2&elementsetname=full&id=6cf930fe-059b-11e1-863c-000c295c828d">Metadata</a> |</td>
+                <td><a href="http://geonode.labs.ecotrust.org/data/geonode:WWRI_FWshd_20101008">More</a></td>
+            </tr>
+        </table>
+        <h3>Basins:</h3>
+        <p>WWRI Basin data.</p>
+        <table>
+            <tr>
+                <td><a href="http://geonode.labs.ecotrust.org/geoserver-geonode-dev/wfs?typename=geonode%3AWWRI_Pbasins_20101008&outputFormat=csv&request=GetFeature&service=WFS">CSV</a> |</td>
+                <td><a href="http://geonode.labs.ecotrust.org/geoserver-geonode-dev/wfs?typename=geonode%3AWWRI_Pbasins_20101008&outputFormat=excel&request=GetFeature&service=WFS">Excel</a> |</td>
+                <td><a href="http://geonode.labs.ecotrust.org/geoserver-geonode-dev/wms/kml?layers=geonode%3AWWRI_Pbasins_20101008&mode=download">KML</a> |</td>
+                <td><a href="http://geonode.labs.ecotrust.org/geonetwork/srv/en/csw?outputschema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&service=CSW&request=GetRecordById&version=2.0.2&elementsetname=full&id=c5ba48d4-059d-11e1-9bdd-000c295c828d">Metadata</a> |</td>
+                <td><a href="http://geonode.labs.ecotrust.org/data/geonode:WWRI_Pbasins_20101008">More</a></td>
+            </tr>
 	    </table>
 	    <h2>Metadata</h2>
 	    
