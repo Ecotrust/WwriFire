@@ -50,9 +50,9 @@ a.zoomout {
 }
 .share-popup{
     margin-top: 5px !important; 
-    width: 600px !important;
+    width: 400px !important;
     max-width: 600px !important;
-    height: 200px !important;
+    height: 90px !important;
     left: none !important;
     right: 15px; 
     background-color: white;
@@ -60,6 +60,7 @@ a.zoomout {
     border: 1px solid #BBB;
     border-radius: 6px 6px 6px 6px;
     box-shadow: 2px 2px 22px #DDDDDD;
+    margin-right: 285px !important;
 }
 a.close {
     margin: 6px;
@@ -72,8 +73,12 @@ a.close {
     width: 15px;
     height: 15px;
 }
+table tr td {
+  border: 0 solid #ccc;
+}
 table {
     background: #fff;
+    border: 0;
     border-collapse: collapse;
     text-align: left;
     margin: 4px; 
@@ -81,7 +86,7 @@ table {
 }
 td {
     font-size: 9pt; 
-    border-bottom: 1px solid #ccc;
+    border: 0 solid #ccc;
     color: #669;
     padding: 3px 4px;
 }
