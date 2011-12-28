@@ -22,6 +22,10 @@
     box-shadow: 1px 1px 4px #DDDDDD;
 }
 
+h2 {
+    margin-bottom: 5px;
+}
+
 p {
     margin-bottom: 5px;
 }
@@ -52,9 +56,9 @@ a.zoomout {
 
 .wax-popup {
     margin-top: 5px !important; 
-    width: 600px !important;
+    width: 500px !important;
     max-width: 600px !important;
-    height: 440px !important;
+    height: 340px !important;
     left: none !important;
     right: 15px; 
     background-color: white;
@@ -62,6 +66,7 @@ a.zoomout {
     border: 1px solid #BBB;
     border-radius: 6px 6px 6px 6px;
     box-shadow: 2px 2px 22px #DDDDDD;
+    margin-right: 185px !important;
 }
 
 .share-popup{
@@ -77,6 +82,10 @@ a.zoomout {
     border-radius: 6px 6px 6px 6px;
     box-shadow: 2px 2px 22px #DDDDDD;
     margin-right: 285px !important;
+}
+
+.addthis_toolbox {
+    margin-top: 20px;
 }
 
 a.close {
