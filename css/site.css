@@ -39,6 +39,14 @@ a.zoomout {
     left: 30px !important;
 }
 
+a[href$=".xls"] {
+    padding-right: 0;
+}
+
+a[href$=".pdf"] {
+    padding-right: 0;
+}
+
 .wax-tooltip{ 
     left: none !important;
     right: 15px;
