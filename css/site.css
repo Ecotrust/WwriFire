@@ -1,7 +1,16 @@
 #themap { border: 1px #ccc solid; }
 
-.info { height: 300px; width:250px; float:right; border: 1px #ccc dashed; }
-#zoomer { padding: 10px; margin-top: 14px; }
+.info { 
+    height: 300px; 
+    width:250px; 
+    float:right; 
+    border: 1px #ccc dashed; 
+}
+
+#zoomer { 
+    padding: 10px;
+    margin-top: 14px;
+}
 .zoomer { 
     font-weight: bold;
     background-color: white !important;
@@ -11,14 +20,21 @@
     background-repeat: no-repeat;
     border: 1px solid #bbbbbb;
     box-shadow: 1px 1px 4px #DDDDDD;
-}                      
+}
+
+p {
+    margin-bottom: 5px;
+}
+
 a.zoomin {
     border-radius: 6px 0px 0px 6px;
 }
+
 a.zoomout {
     border-radius: 0px 6px 6px 0px;
     left: 30px !important;
 }
+
 .wax-tooltip{ 
     left: none !important;
     right: 15px;
@@ -32,7 +48,8 @@ a.zoomout {
     border: 1px solid #CCCCCC;
     border-radius: 6px 6px 6px 6px;
     box-shadow: 2px 2px 6px #DDDDDD;
-}                      
+}
+
 .wax-popup {
     margin-top: 5px !important; 
     width: 600px !important;
@@ -46,6 +63,7 @@ a.zoomout {
     border-radius: 6px 6px 6px 6px;
     box-shadow: 2px 2px 22px #DDDDDD;
 }
+
 .share-popup{
     margin-top: 5px !important; 
     width: 400px !important;
@@ -60,6 +78,7 @@ a.zoomout {
     box-shadow: 2px 2px 22px #DDDDDD;
     margin-right: 285px !important;
 }
+
 a.close {
     margin: 6px;
     color: #BBBBBB;
@@ -71,23 +90,27 @@ a.close {
     width: 15px;
     height: 15px;
 }
+
 table tr td {
   border: 0 solid #ccc;
 }
+
 table {
     background: #fff;
     border: 0;
     border-collapse: collapse;
     text-align: left;
     margin: 4px; 
-    margin-top: 10px; 
+    margin-top: 5px; 
 }
+
 td {
     font-size: 9pt; 
     border: 0 solid #ccc;
     color: #669;
     padding: 3px 4px;
 }
+
 .wax-legend {
     padding: 1px !important;
     color: black !important;
@@ -97,6 +120,7 @@ td {
     border-radius: 6px 6px 6px 6px;
     box-shadow: 2px 2px 6px #DDDDDD;
 }
+
 .button {
     padding: 1px !important;
     color: #444 !important;
@@ -113,10 +137,15 @@ td {
     font-size: 9pt; 
     text-align: center;
 }
+
 .share {
     top: 40px;
 }
+
 .explore {
     top: 62px;
 }
-a { text-decoration: none; }
+
+a { 
+    text-decoration: none; 
+}
