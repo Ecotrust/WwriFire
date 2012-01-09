@@ -48,7 +48,7 @@ a[href$=".pdf"] {
 }
 
 .wax-tooltip{ 
-    left: none !important;
+    left: auto !important;
     right: 15px;
     width: 250px;
     background-color: white;
