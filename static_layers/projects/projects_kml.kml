@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>projects_kml</name>
+<Schema name="projects_kml" id="projects_kml">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="grant_num" type="string"></SimpleField>
+	<SimpleField name="funder" type="string"></SimpleField>
+	<SimpleField name="prj_name" type="string"></SimpleField>
+	<SimpleField name="website" type="string"></SimpleField>
+	<SimpleField name="loc_notes" type="string"></SimpleField>
+	<SimpleField name="y_coord" type="float"></SimpleField>
+	<SimpleField name="x_coord" type="float"></SimpleField>
+	<SimpleField name="strt_date" type="string"></SimpleField>
+	<SimpleField name="end_date" type="string"></SimpleField>
+	<SimpleField name="completed" type="int"></SimpleField>
+	<SimpleField name="prj_desc" type="string"></SimpleField>
+	<SimpleField name="rest_activity" type="string"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="map_icon" type="int"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0819-E-OR-W</SimpleData>
+		<SimpleData name="funder">Grant Soil and Water Conservation District</SimpleData>
+		<SimpleData name="prj_name">Camp Creek Legacy Log Weir Removal Phase 1</SimpleData>
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">44.66433</SimpleData>
+		<SimpleData name="x_coord">-118.808525</SimpleData>
+		<SimpleData name="strt_date">4/15/2009</SimpleData>
+		<SimpleData name="end_date">12/31/2011</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;Funding to Phase 1 of the Camp Creek Log Weir Removal Project addressed legacy log weirs in Camp Creek. Placed in the 1980's the legacy weirs altered hydrology and sediment routing, and in some instances created new passage barriers. This project removed or replaced 28 log weirs to encourage a healthy pool/riffle sequence with natural stream channel characteristics.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Weir Removal, Instream Large Wood Placement&quot;</SimpleData>
+		<SimpleData name="icon">Barrier Removal</SimpleData>
+		<SimpleData name="map_icon">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.808525,44.66433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1003-E-OR-WF</SimpleData>
+		<SimpleData name="funder">Grant Soil and Water Conservation District</SimpleData>
+		<SimpleData name="prj_name">Camp Creek Log Weir Removal Project Phase II</SimpleData>
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">44.65279</SimpleData>
+		<SimpleData name="x_coord">-118.826141</SimpleData>
+		<SimpleData name="strt_date">8/2/2010</SimpleData>
+		<SimpleData name="end_date">12/31/2011</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;Funding for phase two of the Camp Creek Log Weir Removal Project supported the removal and modification of 133 legacy log weir structures in both Lick Creek and Camp Creek. The installation of appropriate restoration structures, where legacy structures were removed, will accelerate the recovery process to more quickly decrease the width/depth ratio, create pools, capture spawning gravels, and increase sinuosity.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Weir Removal, Instream Large Wood Placement&quot;</SimpleData>
+		<SimpleData name="icon">Barrier Removal</SimpleData>
+		<SimpleData name="map_icon">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.826141,44.65279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0818-EP-OR-WF</SimpleData>
+		<SimpleData name="funder">USDA Forest Service- Malheur National Forest</SimpleData>
+		<SimpleData name="prj_name">Camp Creek Watershed Culvert Replacement</SimpleData>
+		<SimpleData name="website">http://www.fs.usda.gov/malheur/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">44.686096</SimpleData>
+		<SimpleData name="x_coord">-118.796768</SimpleData>
+		<SimpleData name="strt_date">10/1/2008</SimpleData>
+		<SimpleData name="end_date">9/30/2009</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;The Granite Boulder Creek Culvert Replacement Project replaced two side-by-side culverts with an open bottom box culvert. This work, in addition to removal of a weir below the culverts, opened access to 4 miles of spawning and rearing habitat for Chinook salmon, mid-Columbia Steelhead and Bull trout.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Culvert Replacement, Weir Removal&quot;</SimpleData>
+		<SimpleData name="icon">Barrier Removal</SimpleData>
+		<SimpleData name="map_icon">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.796768,44.686096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1101-E-WA-N</SimpleData>
+		<SimpleData name="funder">Confederated Tribes and Bands of the Yakama Nation</SimpleData>
+		<SimpleData name="prj_name">Condit Dam Riparian Restoration </SimpleData>
+		<SimpleData name="website">http://www.yakamanation-nsn.gov/index.php</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">45.766667</SimpleData>
+		<SimpleData name="x_coord">-121.516667</SimpleData>
+		<SimpleData name="strt_date">12/1/2011</SimpleData>
+		<SimpleData name="end_date">12/1/2013</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;Since 1913, the Condit Hydroelectric Project at rivermile 3.3 of the White Salmon River has blocked upstream access for ESA-listed salmon, steelhead and anadromous lamprey. After removal of the dam by PacifiCorp in October 2011, up to 33 miles of rearing habitat will be opened to anadromous fish. With this grant, the Yakama Nation will work with volunteers and contractors to revegetate the new riparian zone, with the goal of reduce inputs of sediment and improving habitat. &quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Large Dam Removal, Riparian Planting and Revegetation, Community Engagement&quot;</SimpleData>
+		<SimpleData name="icon">Barrier Removal</SimpleData>
+		<SimpleData name="map_icon">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.516667,45.766667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0905-E-OR-NWF</SimpleData>
+		<SimpleData name="funder">North Fork John Day Watershed Council </SimpleData>
+		<SimpleData name="prj_name">Desolation Creek Watershed Culvert Replacement</SimpleData>
+		<SimpleData name="website">http://www.nfjdwc.org/</SimpleData>
+		<SimpleData name="loc_notes">fixed in the GIS-not in the LAT LONG DONE</SimpleData>
+		<SimpleData name="y_coord">44.897305</SimpleData>
+		<SimpleData name="x_coord">-118.795296</SimpleData>
+		<SimpleData name="strt_date">5/12/2009</SimpleData>
+		<SimpleData name="end_date">9/30/2011</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;The Bruin Creek Culvert Removal Project replaced a failed, perched culvert with a new bottomless culvert bridge in 2011, opening 2 miles of spawning and 4 miles of rearing stream habitat, restoring natural channel processes and morphology, and stabilizing the roadbed to reduce future sediment loading.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Culvert Replacement, Streambank Stabilization &quot;</SimpleData>
+		<SimpleData name="icon">Barrier Removal</SimpleData>
+		<SimpleData name="map_icon">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.795296,44.897305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0804-E-OR-N</SimpleData>
+		<SimpleData name="funder">Jackson County </SimpleData>
+		<SimpleData name="prj_name">Gold Ray Dam Removal Sediment Study</SimpleData>
+		<SimpleData name="website">http://www.co.jackson.or.us</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">42.433333</SimpleData>
+		<SimpleData name="x_coord">-122.983889</SimpleData>
+		<SimpleData name="strt_date">7/16/2008</SimpleData>
+		<SimpleData name="end_date">12/31/2009</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;This grant funded a sediment study necessary to obtain permits for removal of the Gold Ray Dam, a defunct hydroelectric facility built in 1904. Following the study, Jackson County received $5 million from the National Oceanic and Atmospheric Administration to remove the dam. Ultimate removal of the dam in 2010 opened more than 300 miles of river and stream habitat to anadromous fish, and restored natural processes to the river and floodplain.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Baseline or Project Monitoring; Assessment, Planning, or Design&quot;</SimpleData>
+		<SimpleData name="icon">Barrier Removal</SimpleData>
+		<SimpleData name="map_icon">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.983889,42.433333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0801-E-OR-NF</SimpleData>
+		<SimpleData name="funder">Confederated Tribes of the Umatilla Indian Reservation </SimpleData>
+		<SimpleData name="prj_name">Granite &amp; Battle Creek Culvert Replacement</SimpleData>
+		<SimpleData name="website">http://www.umatilla.nsn.us/salmon.html</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">44.851133</SimpleData>
+		<SimpleData name="x_coord">-118.398533</SimpleData>
+		<SimpleData name="strt_date">6/30/2008</SimpleData>
+		<SimpleData name="end_date">9/30/2010</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;This project replaced two culverts; one on Battle Creek, and another on Granite Creek.  These culverts were replaced to improve fish passage, restore natural hydrologic and stream processes, and increase habitat. The creeks are now important cold-water refugia for listed and non-listed species during warm summer months.&quot;</SimpleData>
+		<SimpleData name="rest_activity">Culvert Replacement</SimpleData>
+		<SimpleData name="icon">Barrier Removal</SimpleData>
+		<SimpleData name="map_icon">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.398533,44.851133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1108-E-OR-NF</SimpleData>
+		<SimpleData name="funder">North Fork John Day Watershed Council</SimpleData>
+		<SimpleData name="prj_name">Granite Creek Watershed Restoration</SimpleData>
+		<SimpleData name="website">http://www.nfjdwc.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">44.774846</SimpleData>
+		<SimpleData name="x_coord">-118.457037</SimpleData>
+		<SimpleData name="strt_date">6/27/2011</SimpleData>
+		<SimpleData name="end_date">4/30/2013</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">This effort along Granite Creek addresses the highest priority factors impacting water quality for salmonids. The Granite Creek Restoration Project will improve overall stream health and function in the Granite Creek Watershed through: the removal and replacement of eight barriers on roads that currently impede salmonid passage; assessment of the Black Jack mine settling pond function (an abandoned lode mine on Forest Service land); assessment at the Red Boy Mine (on private land) to mitigate current acid mine discharge; and noxious weed control/treatments at restoration project sites and priority areas within the watershed. </SimpleData>
+		<SimpleData name="rest_activity">&quot;Culvert Removal, Culvert Replacement, Riparian Planting and Revegetation, Mine Assessment, Baseline or Project Monitoring&quot;</SimpleData>
+		<SimpleData name="icon">Barrier Removal</SimpleData>
+		<SimpleData name="map_icon">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.457037,44.774846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0807-EP-WA-NF</SimpleData>
+		<SimpleData name="funder">Mid-Columbia Fisheries Enhancement Group</SimpleData>
+		<SimpleData name="prj_name">Hemlock Dam Removal</SimpleData>
+		<SimpleData name="website">http://midcolumbiarfeg.com/</SimpleData>
+		<SimpleData name="loc_notes">Moved in the GIS-not in LAT LONG DONE</SimpleData>
+		<SimpleData name="y_coord">45.799225</SimpleData>
+		<SimpleData name="x_coord">-121.903641</SimpleData>
+		<SimpleData name="strt_date">6/11/2008</SimpleData>
+		<SimpleData name="end_date">10/15/2009</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;Funding assisted with the removal of the Hemlock Dam on Trout Creek, a tributary of the Wind River. Dam removal improved fish access to a 21,000-acre watershed with over 15 miles of potentially excellent habitat. Eliminating the reservoir also removed a major source of heating to Trout Creek waters - which typically exceeded state temperature standards more than 70 days per year - and re-established sediment movement to approximately two miles of sediment-starved reaches of lower Trout Creek.&quot;</SimpleData>
+		<SimpleData name="rest_activity">Large Dam Removal</SimpleData>
+		<SimpleData name="icon">Barrier Removal</SimpleData>
+		<SimpleData name="map_icon">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.903641,45.799225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1114-E-OR-NW</SimpleData>
+		<SimpleData name="funder">Wheeler Soil and Water Conservation District</SimpleData>
+		<SimpleData name="prj_name">Lower Butte Creek Fish Passage</SimpleData>
+		<SimpleData name="website">http://www.wheelerswcd.org/</SimpleData>
+		<SimpleData name="loc_notes">GOOD</SimpleData>
+		<SimpleData name="y_coord">45.057222</SimpleData>
+		<SimpleData name="x_coord">-120.369167</SimpleData>
+		<SimpleData name="strt_date">8/15/2011</SimpleData>
+		<SimpleData name="end_date">7/31/2013</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;Butte Creek is a high priority watershed for steelhead spawning and rearing. To date, 17 fish passage projects have been completed within the Butte Creek watershed. Three barriers still remain in the lower reaches of Butte Creek that, once removed, will open up over 32.2 miles of identified summer steelhead spawning and rearing habitat. This project will correct the last three barriers on Lower Butte Creek by replacing three existing culverts with bridges.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Culvert Replacement, Livestock Management&quot;</SimpleData>
+		<SimpleData name="icon">Barrier Removal</SimpleData>
+		<SimpleData name="map_icon">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-120.369167,45.057222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0805-E-WA-N</SimpleData>
+		<SimpleData name="funder">Mason Conservation District</SimpleData>
+		<SimpleData name="prj_name">Skokomish Watershed Restoration</SimpleData>
+		<SimpleData name="website">http://www.masoncd.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">47.402</SimpleData>
+		<SimpleData name="x_coord">-123.24</SimpleData>
+		<SimpleData name="strt_date">9/18/2008</SimpleData>
+		<SimpleData name="end_date">12/31/2009</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">Grant funding assisted the Mason Bridge Project restoration of fish passage in Gibbons Creek in the Skokomish North Fork watershed.  A 5' diameter culvert with a 10' drop at the outlet previously eliminated fish passage and access to the upper 1.1 miles of Gibbons Creek. The culvert and road fill were removed and a 65' pre-fabricated bridge was installed and the stream was restored including construction of rock riffles and the installation of large wood.  </SimpleData>
+		<SimpleData name="rest_activity">&quot;Culvert Replacement, Instream Rock Weir Placement, Instream Large Wood Placement&quot;</SimpleData>
+		<SimpleData name="icon">Barrier Removal</SimpleData>
+		<SimpleData name="map_icon">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.24,47.402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0910-E-WA-N</SimpleData>
+		<SimpleData name="funder">Skagit River System Cooperative</SimpleData>
+		<SimpleData name="prj_name">Turner's Bay Lagoon Reconnection</SimpleData>
+		<SimpleData name="website">http://www.skagitcoop.org/</SimpleData>
+		<SimpleData name="loc_notes">GOOD</SimpleData>
+		<SimpleData name="y_coord">48.45</SimpleData>
+		<SimpleData name="x_coord">-122.55</SimpleData>
+		<SimpleData name="strt_date">5/29/2009</SimpleData>
+		<SimpleData name="end_date">3/15/2012</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;Grant funding provided to the Turner's Bay Lagoon Project is helping restore fish access and unmuted tidal flow to a 60-acre pocket estuary. Tidal flow is currently limited by a non-functioning tide gate at a road crossing.  Work completed during this phase focused on protection of existing site infrastructure, including a natural gas pipeline and other utilities, local properties, and a county road, so that removal of the road prism could then proceed.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Tidegate Replacement or Removal, Road Decommissioned or Closed, Wetland Restoration&quot;</SimpleData>
+		<SimpleData name="icon">Barrier Removal</SimpleData>
+		<SimpleData name="map_icon">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.55,48.45</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1010-EP-WA-NF</SimpleData>
+		<SimpleData name="funder">Mid-Columbia Fisheries Enhancement Group</SimpleData>
+		<SimpleData name="prj_name">Wind River Watershed Fish Passage Improvement</SimpleData>
+		<SimpleData name="website">http://midcolumbiarfeg.com/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">45.785186</SimpleData>
+		<SimpleData name="x_coord">-121.946133</SimpleData>
+		<SimpleData name="strt_date">5/20/2010</SimpleData>
+		<SimpleData name="end_date">11/30/2012</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;The Wind River Watershed Fish Passage Improvement project decommissioned 2.5 miles of road and eliminated culverts at a total of 20 stream crossings, four of which were passage barriers. Additionally, a small concrete dam will be removed on Martha Creek, a tributary to Trout Creek in the Wind River basin, and replanting of trees occurred in the riparian zone.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Culvert Removal, Push-up or Diversion Dam Removal, Road Decommissioned or Closed, Riparian Planting and Revegetation&quot;</SimpleData>
+		<SimpleData name="icon">Barrier Removal</SimpleData>
+		<SimpleData name="map_icon">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.946133,45.785186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0815-E-OR-NF</SimpleData>
+		<SimpleData name="funder">The Wetlands Conservancy</SimpleData>
+		<SimpleData name="prj_name">Bayview Oxbow Reconnection Study</SimpleData>
+		<SimpleData name="website">http://oregonwetlands.net/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">44.446283</SimpleData>
+		<SimpleData name="x_coord">-124.043175</SimpleData>
+		<SimpleData name="strt_date">6/26/2008</SimpleData>
+		<SimpleData name="end_date">12/31/2009</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;This grant provided funding to the Wetlands Conservancy for the Bayview Oxbow Reconnection Feasibility Study. The study assessed the feasibility and actions required to restore historic connections and high marsh habitat of the Bayview Oxbow site. The Wetlands Conservancy has purchased a large portion of the site, which was a former tidal wetland connected to Alsea Bay.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Baseline or Project Monitoring; Assessment, Planning, or Design&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-124.043175,44.446283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1106-E-OR-F</SimpleData>
+		<SimpleData name="funder">USDA Forest Service - Malheur National Forest</SimpleData>
+		<SimpleData name="prj_name">Camp Creek Watershed Large Wood Placement</SimpleData>
+		<SimpleData name="website">http://www.fs.usda.gov/malheur/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">44.63</SimpleData>
+		<SimpleData name="x_coord">-118.826141</SimpleData>
+		<SimpleData name="strt_date">8/15/2011</SimpleData>
+		<SimpleData name="end_date">6/30/2013</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;Project activities will include felling of trees into Lick Creek to restore instream channel complexity, increase pool frequency, protect and establish riparian hardwoods within the floodplain, facilitate stream channel narrowing, establish floodplain connectivity where the channel is incised, and inhibit access to the stream floodplain by livestock.  All  described activities will benefit Middle Columbia River Steelhead, their designated critical habitat within coldwater headwater refugia of the Camp Creek Watershed, and facilitate resistance and resilience within the riparian areas to natural disturbances and climate change in the future.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Instream Large Wood Placement, Thinning&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.826141,44.63</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1008-E-ID-N</SimpleData>
+		<SimpleData name="funder">Latah Soil and Water Conservation District </SimpleData>
+		<SimpleData name="prj_name">Corral Creek Racetrack Meadow Phase 1</SimpleData>
+		<SimpleData name="website">http://www.latahsoil.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">46.803645</SimpleData>
+		<SimpleData name="x_coord">-116.474948</SimpleData>
+		<SimpleData name="strt_date">4/13/2010</SimpleData>
+		<SimpleData name="end_date">6/30/2011</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;All phases of this project will restore 0.21 stream miles of Corral Creek and 13.7 acres of riparian and wetland area that were negatively impacted by historic channel straightening and floodplain compaction by horse racing. The ultimate goal is to return the stream to its historic channel, re-establish vegetation in some of the riparian areas, and construct practices to slow water flow to hydrate the surrounding meadow and enhance groundwater recharge. Funding supported an engineering analysis, restoration plan design, and initiation of permitting. &quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Assessment, Planning, or Design; Baseline or Project Monitoring&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-116.474948,46.803645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1105-E-ID-N</SimpleData>
+		<SimpleData name="funder">Latah Soil and Water Conservation District </SimpleData>
+		<SimpleData name="prj_name">Corral Creek Racetrack Meadow Phase 2</SimpleData>
+		<SimpleData name="website">http://www.latahsoil.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">46.824</SimpleData>
+		<SimpleData name="x_coord">-116.49</SimpleData>
+		<SimpleData name="strt_date">12/1/2011</SimpleData>
+		<SimpleData name="end_date">12/1/2013</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;Phase 2 of the Corral Creek Racetrack project will include completion of the permitting and consultation process, development of a conservation plan and contract with the private landowner, initiation of long-term water and vegetation monitoring, collection of plant materials, instream construction (diversions and channel plugs), road decommissioning, revegetation, and installation of riparian exclusion fencing.  This project will complement nearby restoration projects completed in this watershed to improve habitat for Snake River A-run (wild) steelhead.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Assessment, Planning, or Design; Baseline or Project Monitoring&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-116.49,46.824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1107-E-WA-NF</SimpleData>
+		<SimpleData name="funder">Mount St. Helens Institute</SimpleData>
+		<SimpleData name="prj_name">East Fork Lewis and Muddy River Habitat Enhancement</SimpleData>
+		<SimpleData name="website">http://www.mshinstitute.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">45.811394</SimpleData>
+		<SimpleData name="x_coord">-122.139031</SimpleData>
+		<SimpleData name="strt_date">7/6/2011</SimpleData>
+		<SimpleData name="end_date">6/30/2013</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;This project consists of habitat enhancement activities on both the East Fork Lewis River and the Muddy River. On the East Fork Lewis, 11 log jams constructed of full-length logs were placed by helicopter along 0.75 miles of the river. Approximately 40 log complexes will also be placed along one tributary and two side channels of the Muddy River. These 51 structures are intended to capture spawning gravel and create rearing pools along reaches that have been scoured as a result of historic anthropogenic activities.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Instream Large Wood Placement, Instream Log Jam Placement, Instream Rootwad Placement, Community Engagement, Baseline or Project Monitoring&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.139031,45.811394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1015-E-OR-NW</SimpleData>
+		<SimpleData name="funder">Partnership for the Umpqua Rivers</SimpleData>
+		<SimpleData name="prj_name">Elk Creek Watershed Salmon Recovery Project</SimpleData>
+		<SimpleData name="website">http://www.umpquarivers.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">42.86</SimpleData>
+		<SimpleData name="x_coord">-122.88</SimpleData>
+		<SimpleData name="strt_date">7/23/2010</SimpleData>
+		<SimpleData name="end_date">9/30/2011</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;Funding provided to the Elk Creek Watershed Salmon Recovery Project assists with a community-based stream restoration project for the South Umpqua Elk Creek watershed. Two demonstration projects will rebuild instream habitat with logs and boulders and restore riparian areas with a mix of native plant species. Reestablishment of beaver colonies and their ponds will provide a complex and abundant nutrient supply for fish, as well as silt retention.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Instream Boulder Placement, Instream Large Wood Placement, Beaver Introduction or Management, Riparian Planting and Revegetation, Community Engagement&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.88,42.86</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1002-E-WA-N</SimpleData>
+		<SimpleData name="funder">Columbia River Estuary Study Task Force (CREST)</SimpleData>
+		<SimpleData name="prj_name">Grays River Whole Watershed Restoration Initiative</SimpleData>
+		<SimpleData name="website">http://www.columbiaestuary.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">46.3692</SimpleData>
+		<SimpleData name="x_coord">-123.5568</SimpleData>
+		<SimpleData name="strt_date">4/13/2010</SimpleData>
+		<SimpleData name="end_date">6/30/2011</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;This phase of the Grays River Restoration Project began conceptual level restoration designs for three potential project sites: Gudmundsen, Sorenson, and Gorley Springs. Local high school students worked with the project manager for three weeks to learn and apply monitoring techniques. If implemented, these projects will restore 6,000 feet of riparian buffers (between 50 and 100 feet wide), improve in-channel complexity with up to 12 large wood structures, and improve floodplain connectivity for three critical reaches of the Grays River.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Assessment, Planning, or Design; Baseline or Project Monitoring; Community Engagement&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5568,46.3692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0820-EP-OR-WF</SimpleData>
+		<SimpleData name="funder">Partnership for the Umpqua Rivers</SimpleData>
+		<SimpleData name="prj_name">Jackson Creek Watershed Restoration Phase 2</SimpleData>
+		<SimpleData name="website">http://www.umpquarivers.org/</SimpleData>
+		<SimpleData name="loc_notes">Moved this point in GIS to more approximate location-FIXED LAT LONG FIELDS DONE</SimpleData>
+		<SimpleData name="y_coord">42.992363</SimpleData>
+		<SimpleData name="x_coord">-122.5429</SimpleData>
+		<SimpleData name="strt_date">7/8/2008</SimpleData>
+		<SimpleData name="end_date">12/31/2009</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;Funding for Phase 2 of the Jackson Creek Restoration Project resulted in the installation of large wood complexes to the stream channels. A large helicopter installed stable wood complexes to 1 mile of Jackson Creek, 2 miles of Falcon Creek, 1 mile of Abbott Creek and the lower 3 miles of Black Canyon Creek.  These wood complexes restored velocity refuges, gravel accumulations, floodplain connectivity and reduced low-flow channel widths.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Instream Log Jam Placement, Instream Large Wood Placement, Instream Rootwad Placement&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.5429,42.992363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0909-E-OR-F</SimpleData>
+		<SimpleData name="funder">Siuslaw Watershed Council </SimpleData>
+		<SimpleData name="prj_name">Knowles Creek Fish Passage Monitoring</SimpleData>
+		<SimpleData name="website">http://www.siuslaw.org/</SimpleData>
+		<SimpleData name="loc_notes">Moved this point in the GIS-but not in LAT LONG yet DONE</SimpleData>
+		<SimpleData name="y_coord">44.013226</SimpleData>
+		<SimpleData name="x_coord">-123.784744</SimpleData>
+		<SimpleData name="strt_date">4/23/2009</SimpleData>
+		<SimpleData name="end_date">9/30/2011</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;This grant has helped to fund Knowles Creek long-term fish passage monitoring efforts. Salmonids were marked and released up stream of a smolt trap, then recorded when they enter the trap on their outward migration. The trap is used to monitor long-term trends in fish populations, monitor response to restoration activities, and is used as an educational tool for local schools and the community.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Baseline or Project Monitoring, Community Engagement&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.784744,44.013226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1011-E-OR-NW</SimpleData>
+		<SimpleData name="funder">Geos Institute</SimpleData>
+		<SimpleData name="prj_name">Little Butte Creek Meander Restoration</SimpleData>
+		<SimpleData name="website">http://www.geosinstitute.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">42.451389</SimpleData>
+		<SimpleData name="x_coord">-122.869722</SimpleData>
+		<SimpleData name="strt_date">8/2/2010</SimpleData>
+		<SimpleData name="end_date">11/30/2011</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;The Little Butte Creek Meander Restoration Project worked to restore a straightened channel to its historic channel meander.  Efforts resulted in: increasing the stream length by approximately 0.2 miles; increasing the channel and floodplain connection; and increasing habitat complexity with large wood, pools, alcoves and off-channel habitats, gravel beds, and fine sediment depositional areas.  Geomorphic riffles were constructed by adding gravels and cobbles to the historic channel.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Stream Channel Reconfiguration, Off-channel Alcove Habitat Construction, Instream Boulder Placement, Instream Gravel Placement, Instream Large Wood Placement, Instream Rootwad Placement, Instream Log Jam Placement, Riparian Planting and Revegetation&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.869722,42.451389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1020-E-WA-NF</SimpleData>
+		<SimpleData name="funder">Underwood Conservation District</SimpleData>
+		<SimpleData name="prj_name">Little Wind River Community Habitat Restoration</SimpleData>
+		<SimpleData name="website">http://w3.gorge.net/ucd/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">45.727732</SimpleData>
+		<SimpleData name="x_coord">-121.791546</SimpleData>
+		<SimpleData name="strt_date">5/3/2010</SimpleData>
+		<SimpleData name="end_date">12/31/2011</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;The Little Wind Community Habitat Restoration Project aims to restore processes that currently limit the recovery of salmon and steelhead in the Little Wind River. Work will include placement of large wood to increase soil deposition at key sites, and reconnection of a historic floodplain side channel system. At other sites, placement of channel-spanning structures will increase available spawning habitat.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Stream Channel Connectivity, Off-channel Habitat Construction, Instream Boulder Placement, Instream Large Wood Placement, Instream Log Jam Placement&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.791546,45.727732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0809-E-OR-W</SimpleData>
+		<SimpleData name="funder">Stream Restoration Alliance of the Middle Rogue</SimpleData>
+		<SimpleData name="prj_name">Louse Creek Restoration</SimpleData>
+		<SimpleData name="website">http://www.sramiddlerogue.org/</SimpleData>
+		<SimpleData name="loc_notes">Correct</SimpleData>
+		<SimpleData name="y_coord">42.516311</SimpleData>
+		<SimpleData name="x_coord">-123.413811</SimpleData>
+		<SimpleData name="strt_date">4/20/2009</SimpleData>
+		<SimpleData name="end_date">12/30/2009</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;This grant provided funding for phases 2 and 3 of the Louse Creek Restoration Project's instream restoration efforts.  The grantee added 20 log structures and boulder clusters, re-profiled 800 feet of bank, and replanted a 50 ft. riparian buffer. The large wood complexes improves gravel retention &amp; sorting for spawning salmon; enhances channel complexity and pool structure; provides high water refuge; and adds organic material to the aquatic system.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Streambank Stabilization, Instream Boulder Placement, Instream Log Jam Placement, Riparian Planting and Revegetation&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.413811,42.516311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0812-E-WA-NF</SimpleData>
+		<SimpleData name="funder">Skagit Fisheries Enhancement Group</SimpleData>
+		<SimpleData name="prj_name">Lower Finney Creek Restoration</SimpleData>
+		<SimpleData name="website">http://www.skagitfisheries.org/</SimpleData>
+		<SimpleData name="loc_notes">GOOD</SimpleData>
+		<SimpleData name="y_coord">48.5077</SimpleData>
+		<SimpleData name="x_coord">-121.8044</SimpleData>
+		<SimpleData name="strt_date">6/10/2008</SimpleData>
+		<SimpleData name="end_date">12/31/2009</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;Grant funding for the Lower Finney Creek Restoration Project placed 28 large wood complexes in a 1.6 mile reach of Finney Creek, improving stream habitat conditions for salmonids.  The large wood complexes increased channel complexity, storage of sediment, and riparian development.  This was the fifth and final phase of instream restoration efforts in Finney Creek.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Instream Large Wood Placement, Instream Log Jam Placement, Instream Rootwad Placement&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.8044,48.5077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1004-EP-OR-WF</SimpleData>
+		<SimpleData name="funder">Confederated Tribes of the Warm Springs Reservation of Oregon</SimpleData>
+		<SimpleData name="prj_name">McGee Creek In-channel and Floodplain Restoration</SimpleData>
+		<SimpleData name="website">http://www.warmsprings.com/warmsprings/Tribal_Services/Natural_Resources/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">45.45195</SimpleData>
+		<SimpleData name="x_coord">-121.7769</SimpleData>
+		<SimpleData name="strt_date">11/2/2010</SimpleData>
+		<SimpleData name="end_date">10/31/2011</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;This project is one component of a larger effort to restore natural processes in the Upper West Fork Hood Rivers 6th field watershed. This phase of restoration efforts entailed placement of 24 large wood structures, consisting of 800 pieces of wood, in the channel and floodplain along 1.3 miles of lower McGee Creek. Reconnection of the stream channel with the floodplain in the lower 1.3 miles of McGee Creek will increase the quantity and quality of Chinook salmon and steelhead trout spawning and rearing habitat.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Instream Log Jam Placement, Instream Large Wood Placement, Instream Rootwad Placement, &quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.7769,45.45195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0810-E-OR-NWF</SimpleData>
+		<SimpleData name="funder">The Freshwater Trust</SimpleData>
+		<SimpleData name="prj_name">Middle Fork John Day Channel Relocation Phase I</SimpleData>
+		<SimpleData name="website">http://www.thefreshwatertrust.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">44.742031</SimpleData>
+		<SimpleData name="x_coord">-118.850128</SimpleData>
+		<SimpleData name="strt_date">6/30/2008</SimpleData>
+		<SimpleData name="end_date">10/31/2009</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;This grant provided funding to assist the Middle Fork John Day Channel Relocation and Riparian Restoration Project. Project activities included: restoration of the river channel to its historic configuration, which increased the stream length by 2,705 feet; enhancement of channel complexity via addition of 600 pieces of wood; and restoration of channel-floodplain connectivity by reconnecting two disconnected meanders.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Stream Channel Reconfiguration, Off-channel Alcove Habitat Construction, Instream Boulder Placement, Instream Log Jam Placement, Wetland Enhancement, Riparian Planting and Revegetation&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.850128,44.742031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0902-E-OR-F</SimpleData>
+		<SimpleData name="funder">The Freshwater Trust</SimpleData>
+		<SimpleData name="prj_name">Middle Fork John Day Channel Relocation Phase II</SimpleData>
+		<SimpleData name="website">http://www.thefreshwatertrust.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">44.729248</SimpleData>
+		<SimpleData name="x_coord">-118.845085</SimpleData>
+		<SimpleData name="strt_date">5/18/2009</SimpleData>
+		<SimpleData name="end_date">12/31/2010</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">Grant funding for the Middle Fork John Day Channel Relocation and Riparian Restoration Project continued reconnection of two obstructed and disconnected meanders; enhancement of channel complexity via addition of 600 pieces of wood; and restoration of 28 acres of channel-floodplain connectivity and riparian vegetation.</SimpleData>
+		<SimpleData name="rest_activity">&quot;Stream Channel Reconfiguration, Off-channel Alcove Habitat Construction, Instream Boulder Placement, Instream Log Jam Placement, Wetland Enhancement, Riparian Planting and Revegetation&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.845085,44.729248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1016-EP-OR-WF</SimpleData>
+		<SimpleData name="funder">Partnership for the Umpqua Rivers</SimpleData>
+		<SimpleData name="prj_name">Middle/Upper Jackson Creek Salmon and Steelhead Restoration</SimpleData>
+		<SimpleData name="website">http://www.umpquarivers.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">45.783333</SimpleData>
+		<SimpleData name="x_coord">-122.75</SimpleData>
+		<SimpleData name="strt_date">8/16/2010</SimpleData>
+		<SimpleData name="end_date">12/31/2011</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;The Middle/Upper Jackson Creek Salmon and Steelhead Restoration Project worked to restore instream habitat through placement of large wood complexes along five miles of the upper reaches of Jackson Creek.  Approximately 300 pieces of large wood were used to restore velocity refuges, gravel accumulations, floodplain connectivity and to reduce low flow wetted channel widths.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Instream Large Wood Placement, Instream Log Jam Placement&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.75,45.783333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1001-E-WA-NF</SimpleData>
+		<SimpleData name="funder">Chelan County Natural Resource Department</SimpleData>
+		<SimpleData name="prj_name">Nason N1 Oxbow Reconnection</SimpleData>
+		<SimpleData name="website">http://www.co.chelan.wa.us/nr/default.asp</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">47.7612</SimpleData>
+		<SimpleData name="x_coord">-120.7308</SimpleData>
+		<SimpleData name="strt_date">5/10/2010</SimpleData>
+		<SimpleData name="end_date">2/28/2011</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;This grant funded a report by the Chelan County Natural Resources Department to evaluate six project alternatives for road repair at the Nason Creek N1/KDIZ3 site.  Various community stakeholders, including USFWS and Yakama Nation Fisheries, have supported the alternative to reconnect natural stream processes in 77 acres of disconnected floodplain, allowing fish passage, creating off-channel habitat, and providing at least 1.5 miles of additional stream channel length.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Assessment, Planning, or Design; Baseline or Project Monitoring; Community Engagement&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-120.7308,47.7612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0901-E-OR-N</SimpleData>
+		<SimpleData name="funder">Confederated Tribes of the Warm Springs Reservation of Oregon</SimpleData>
+		<SimpleData name="prj_name">Oxbow Conservation Instream Habitat</SimpleData>
+		<SimpleData name="website">http://www.warmsprings.com/warmsprings/Tribal_Services/Natural_Resources/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">44.652794</SimpleData>
+		<SimpleData name="x_coord">-118.679267</SimpleData>
+		<SimpleData name="strt_date">4/9/2009</SimpleData>
+		<SimpleData name="end_date">12/31/2009</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;Funding provided for The Oxbow Conservation Area Instream Habitat Project assisted in one phase of a watershed-scale project to recover the Middle Fork John Day River aquatic ecosystem. Work included removal of 34 channel-restricting rock barbs, installation of 15 large wood structures to create scour pools and provide habitat, and construction of two mid-channel gravel bar enhancements.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Dike or Levee Removal, Instream Boulder Placement, Instream Rootwad Placement, Instream Large Wood Placement&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.679267,44.652794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1102-E-OR-WF</SimpleData>
+		<SimpleData name="funder">Confederated Tribes of the Warm Springs Reservation of Oregon</SimpleData>
+		<SimpleData name="prj_name">Oxbow Tailings Restoration Phases 1 &amp; 2</SimpleData>
+		<SimpleData name="website">http://www.warmsprings.com/warmsprings/Tribal_Services/Natural_Resources/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">44.642996</SimpleData>
+		<SimpleData name="x_coord">-118.660752</SimpleData>
+		<SimpleData name="strt_date">7/6/2011</SimpleData>
+		<SimpleData name="end_date">6/30/2013</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;This restoration project will address the most degraded segment of aquatic habitat along the Middle Fork John Day River to significantly enhance steelhead and Chinook salmon populations. This project is located on the 1,022-acre Oxbow Conservation Area, owned and managed by the Tribes specifically for long-term anadromous fish benefit. As a whole, the project will remove approximately 11,600 feet of dredge mining-created channels from the early 1940s, which offer little or poor habitat, enhance 5,400 feet of existing river channel with habitat-rich features, and construct 7,600 of new channels, offering complex, diverse habitat for all life-stages of anadromous and resident fish. The Oxbow Tailings Project has been split into three phases: phase one (2011) addresses the existing south channel habitat; phase two (2012) removes the north channel and reconnects Granite Boulder Creek; and phase three (2013) reconstructs the channel of the lower river portion, removing the dredged channel and reconnects Ruby Creek to the River.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Stream Channel Connectivity, Stream Channel Reconfiguration, Dike or Levee Removal, Instream Boulder Placement, Instream Large Wood Placement, Instream Rootwad Placement, Instream Log Jam Placement, Riparian Planting and Revegetation&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.660752,44.642996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1005-EP-OR-WF</SimpleData>
+		<SimpleData name="funder">Coquille Watershed Association</SimpleData>
+		<SimpleData name="prj_name">Restoring Salmonid Habitat &amp; Stream Dynamics in Rock Creek Phase II</SimpleData>
+		<SimpleData name="website">http://www.coquillewatershed.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">42.709444</SimpleData>
+		<SimpleData name="x_coord">-124.056944</SimpleData>
+		<SimpleData name="strt_date">7/14/2010</SimpleData>
+		<SimpleData name="end_date">12/31/2011</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;Phase II of this project on Rock Creek of the South Fork Coquille watershed included both instream and riparian work. Instream placement of log cribs and boulders will provide complex rearing habitat, narrow the channel, and add sinuosity while aggressively recruiting spawning gravels. These actions combined with replanting of riparian areas are an effort to rectify the historic practices of riparian harvest, placer hydro mining and 'stream cleaning.'&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Instream Log Jam Placement, Instream Large Wood Placement, Instream Boulder Placement, Riparian Planting and Revegetation&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-124.056944,42.709444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1006-E-OR-N</SimpleData>
+		<SimpleData name="funder">The Freshwater Trust</SimpleData>
+		<SimpleData name="prj_name">Rudio Creek Ranch Habitat Restoration Project</SimpleData>
+		<SimpleData name="website">http://www.thefreshwatertrust.org/</SimpleData>
+		<SimpleData name="loc_notes">GOOD</SimpleData>
+		<SimpleData name="y_coord">44.743869</SimpleData>
+		<SimpleData name="x_coord">-119.543578</SimpleData>
+		<SimpleData name="strt_date">5/3/2010</SimpleData>
+		<SimpleData name="end_date">12/31/2011</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;The Rudio Creek Ranch Restoration Project is a large-scale effort to restore this tributary of the North Fork John Day River. The project's objectives are to increase stream length and complexity, restore natural floodplain function, and restore riparian habitat for steelhead and spring Chinook. Project activities will include reconnection of the stream to its historic channel, and increasing channel, riparian and floodplain complexity along 2.4 miles of Rudio Creek.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Stream Channel Reconfiguration; Off-channel Pond Habitat Construction; Baseline or Project Monitoring; Assessment, Planning, or Design&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.543578,44.743869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0806-EP-WA-NF</SimpleData>
+		<SimpleData name="funder">Methow Conservancy</SimpleData>
+		<SimpleData name="prj_name">Salmon Habitat Restoration Through Beaver Reintroduction</SimpleData>
+		<SimpleData name="website">http://www.methowconservancy.org</SimpleData>
+		<SimpleData name="loc_notes">Kate is verifying location DONE</SimpleData>
+		<SimpleData name="y_coord">48.547436</SimpleData>
+		<SimpleData name="x_coord">-120.184715</SimpleData>
+		<SimpleData name="strt_date">5/14/2008</SimpleData>
+		<SimpleData name="end_date">9/30/2009</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;This grant supported the Methow Conservancy's efforts to use beavers to restore wetland and riparian habitat characteristics. This project relocated 54 beavers between 2008 and 2009 to six sites in both Cub and Libby Creeks. The beavers established at least six active sites. Beaver dam building and tree cutting resulted in increased water storage, higher late season flows, improved water quality, reductions in sedimentation, increased large wood recruitment, and increased channel complexity.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Beaver Introduction or Management, Community Engagement&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-120.184715,48.547436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0817-EP-OR-WF</SimpleData>
+		<SimpleData name="funder">USDA Forest Service - Mt. Hood National Forest</SimpleData>
+		<SimpleData name="prj_name">Salmon River Side Channel Reconnection</SimpleData>
+		<SimpleData name="website">http://www.fs.usda.gov/mthood/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">45.349899</SimpleData>
+		<SimpleData name="x_coord">-121.989799</SimpleData>
+		<SimpleData name="strt_date">6/15/2008</SimpleData>
+		<SimpleData name="end_date">11/30/2010</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;Funding provided to the Salmon River Watershed Restoration Project assisted in the restoration of three historic side channels and decommissioning of 1.6 miles of road into trail.  These three side-channels provide salmon and trout species with over 2.04 acres of newly reclaimed, high quality off-channel habitat.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Side-channel Habitat Construction, Off-channel Alcove Habitat Construction, Instream Large Wood Placement, Instream Rootwad Placement, Instream Log Jam Placement, Riparian Planting and Revegetation, Road Decommissioned or Closed, Culvert Removal, Road Drainage Improvements, Community Engagement&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.989799,45.349899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0802-EP-OR-WF</SimpleData>
+		<SimpleData name="funder">Coquille Watershed Association</SimpleData>
+		<SimpleData name="prj_name">South Fork Coquille Restoration</SimpleData>
+		<SimpleData name="website">http://www.coquillewatershed.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">42.909444</SimpleData>
+		<SimpleData name="x_coord">-124.056944</SimpleData>
+		<SimpleData name="strt_date">8/19/2008</SimpleData>
+		<SimpleData name="end_date">11/30/2009</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;This project placed 22 log and bolder structures in Rock Creek, improving spawning and rearing habitats for salmon and steelhead by capturing spawning gravels, stabilizing banks, and narrowing and deepening widened channels.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Instream Boulder Placement, Instream Large Wood Placement, Instream Log Jam Placement&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-124.056944,42.909444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1012-E-ID-N</SimpleData>
+		<SimpleData name="funder">Nez Perce Tribe </SimpleData>
+		<SimpleData name="prj_name">Spring Creek Wetland and Riparian Restoration</SimpleData>
+		<SimpleData name="website">http://www.nezperce.org/Official/departmentofnaturalresources.htm</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">46.389242</SimpleData>
+		<SimpleData name="x_coord">-116.793139</SimpleData>
+		<SimpleData name="strt_date">8/23/2010</SimpleData>
+		<SimpleData name="end_date">4/30/2011</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">The Spring Creek Wetland and Riparian Restoration Spring Project restored natural hydrologic function to a traditional wetland. Work included the removal of a concrete diversion head gate to restore passage of aquatic organisms; removal of old drain tile lines; removal of invasive weeds from the riparian area; reestablishment of eroded stream banks using wetland sod mats and plugs; and riparian buffer and upland plantings to reconnect and reestablish the riparian plant community.</SimpleData>
+		<SimpleData name="rest_activity">&quot;Wetland Restoration, Wetland Management, Riparian Planting and Revegetation, Push-up or Diversion Dam Removal&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-116.793139,46.389242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0803-EP-OR-WF</SimpleData>
+		<SimpleData name="funder">Illinois Valley Watershed Council</SimpleData>
+		<SimpleData name="prj_name">Sucker Creek Restoration</SimpleData>
+		<SimpleData name="website">http://www.ivstreamteam.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">42.139652</SimpleData>
+		<SimpleData name="x_coord">-123.456406</SimpleData>
+		<SimpleData name="strt_date">6/11/2008</SimpleData>
+		<SimpleData name="end_date">12/31/2009</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;This Greyback/Sucker Creek Restoration Project involved removal of hazard trees and standing snags from a campground on Sucker Creek, and subsequent creation of large wood complexes in both Greyback and Sucker Creeks to increase the quantity and quality of Coho, Chinook salmon and steelhead habitat.&quot;</SimpleData>
+		<SimpleData name="rest_activity">Instream Log Jam Placement</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.456406,42.139652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1103-E-OR-F</SimpleData>
+		<SimpleData name="funder">Illinois Valley Soil and Water Conservation District</SimpleData>
+		<SimpleData name="prj_name">Sucker Creek Restoration Phase 2A</SimpleData>
+		<SimpleData name="website">http://www.ivstreamteam.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">42.160488</SimpleData>
+		<SimpleData name="x_coord">-123.515152</SimpleData>
+		<SimpleData name="strt_date">6/27/2011</SimpleData>
+		<SimpleData name="end_date">4/30/2013</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;Phase 2A of the Sucker Creek project aims to continue work immediately downstream of Phase 2, restoring the natural stream meander pattern and cooling Sucker Creek by realigning the mainstem through a mature forest. Major activities of this project include channel reconstruction, placement of large wood structures in the channel and floodplain, riparian planting, and road decommissioning.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Stream Channel Connectivity, Stream Channel Reconfiguration, Off-channel Habitat Construction, Instream Large Wood Placement, Instream Log Jam Placement, Road Decommissioned or Closed, Riparian Planting and Revegetation&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.515152,42.160488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1007-E-OR-F</SimpleData>
+		<SimpleData name="funder">Illinois Valley Watershed Council</SimpleData>
+		<SimpleData name="prj_name">Sucker Creek Restoration Phase II</SimpleData>
+		<SimpleData name="website">http://www.ivstreamteam.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">42.163456</SimpleData>
+		<SimpleData name="x_coord">-123.497826</SimpleData>
+		<SimpleData name="strt_date">4/6/2010</SimpleData>
+		<SimpleData name="end_date">5/30/2011</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;Phase II of the Sucker Creek Restoration Project continued work just downstream of the prior year and included: realignment of the main stem; addition of stream sinuosity; narrowing of the channel; incorporation of a proper ratio of riffle structures, runs and glides; decommissioning of 0.8 miles of road; and placement of large wood structures.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Stream Channel Reconfiguration, Road Decommissioned or Closed, Instream Log Jam Placement&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.497826,42.163456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0904-EP-OR-NF</SimpleData>
+		<SimpleData name="funder">Illinois Valley Watershed Council</SimpleData>
+		<SimpleData name="prj_name">Sucker Creek Stream Restoration Phase I</SimpleData>
+		<SimpleData name="website">http://www.ivstreamteam.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">42.157719</SimpleData>
+		<SimpleData name="x_coord">-123.474335</SimpleData>
+		<SimpleData name="strt_date">5/29/2009</SimpleData>
+		<SimpleData name="end_date">12/31/2010</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">This grant provided funding to phase one of the Sucker Creek Stream Restoration Project. Work included creation of approximately 0.4 miles of new side channel with connection to a one-acre rearing pond; planting of trees and shrubs in the riparian area; and constructing off-channel habitat features.</SimpleData>
+		<SimpleData name="rest_activity">&quot;Off-channel Pond Habitat Construction, Side-channel Habitat Construction, Riparian Planting and Revegetation&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.474335,42.157719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0906-E-WA-N</SimpleData>
+		<SimpleData name="funder">Northwest Watershed Institute</SimpleData>
+		<SimpleData name="prj_name">Tarboo Creek Restoration</SimpleData>
+		<SimpleData name="website">http://nwwatershed.org/</SimpleData>
+		<SimpleData name="loc_notes">GOOD-NEED CARTOGRAPHIC AIDE</SimpleData>
+		<SimpleData name="y_coord">47.887367</SimpleData>
+		<SimpleData name="x_coord">-122.820175</SimpleData>
+		<SimpleData name="strt_date">4/24/2009</SimpleData>
+		<SimpleData name="end_date">5/31/2010</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;Funding to the Tarboo Creek Restoration Project provided enhancement of 30 acres of critical habitat, including 1500 linear feet of associated off-channel swales and floodplain wetlands. Work included placement of more than 200 logs, plugging of two drainage ditches to re-route spring flow to historic wetland swales, and removal of a road that crossed one of the wetlands. Tarboo Creek is the main freshwater source to Tarboo-Dabob Bay, one of the most important bays in Washington for shellfish production. &quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Culvert Removal, Road Decommissioned or Closed, Wetland Restoration, Instream Large Wood Placement, Riparian Planting and Revegetation, Community Engagement&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.820175,47.887367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0816-EP-OR-WF</SimpleData>
+		<SimpleData name="funder">USDA Forest Service - Mt. Hood National Forest</SimpleData>
+		<SimpleData name="prj_name">Upper Middle Fork Hood River Restoration</SimpleData>
+		<SimpleData name="website">http://www.fs.usda.gov/mthood/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">45.465556</SimpleData>
+		<SimpleData name="x_coord">-121.637778</SimpleData>
+		<SimpleData name="strt_date">4/1/2008</SimpleData>
+		<SimpleData name="end_date">11/30/2009</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">Funding to the Clear Branch Creek Project assisted instream and floodplain restoration efforts. Approximately 500 logs were placed by helicopter from river mile 2.6 to river mile 3.1 in Clear Branch Creek. The creek is part of ongoing efforts to reverse the decline of the native bull trout population in the Upper Middle Fork Hood River 6th field watershed. </SimpleData>
+		<SimpleData name="rest_activity">&quot;Instream Large Wood Placement, Instream Rootwad Placement&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.637778,45.465556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0811-E-OR-WF</SimpleData>
+		<SimpleData name="funder">Partnership for the Umpqua Rivers</SimpleData>
+		<SimpleData name="prj_name">Upper South Umpqua River Restoration Phase 2</SimpleData>
+		<SimpleData name="website">http://www.umpquarivers.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">43.14275</SimpleData>
+		<SimpleData name="x_coord">-122.54335</SimpleData>
+		<SimpleData name="strt_date">6/21/2008</SimpleData>
+		<SimpleData name="end_date">9/30/2011</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;This grant provided funding for Phase 2 of the Upper South Umpqua Instream Restoration Project. A helicopter placed 134 pieces of large wood at nine sites covering two miles of the Black Rock Fork Creek to increase the channel roughness. Increased channel complexity now provides salmonid winter habitat during high flows, and the narrowing of channel width improved spawning and rearing habitat. &quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Instream Large Wood Placement, Instream Log Jam Placement, Instream Rootwad Placement&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.54335,43.14275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1009-E-OR-N</SimpleData>
+		<SimpleData name="funder">McKenzie River Trust</SimpleData>
+		<SimpleData name="prj_name">Waite Ranch Tidal Wetland Restoration Project</SimpleData>
+		<SimpleData name="website">http://mckenzieriver.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">43.99</SimpleData>
+		<SimpleData name="x_coord">-124.027</SimpleData>
+		<SimpleData name="strt_date">5/19/2010</SimpleData>
+		<SimpleData name="end_date">9/30/2011</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;The Waite Ranch Tidal Wetland Restoration Project will lead to restoration of 217 acres of tidal wetlands in the lower Siuslaw River estuary. Funding for the current phase included site assessment, baseline inventories and initial data delivery for development of the preliminary restoration design. The overarching goal of the project is to restore habitat to include estuarine intertidal emergent, scrub-shrub and forested wetland characteristics. &quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Assessment, Planning, or Design; Baseline or Project Monitoring&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-124.027,43.99</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1104-E-OR-N</SimpleData>
+		<SimpleData name="funder">McKenzie River Trust</SimpleData>
+		<SimpleData name="prj_name">Waite Ranch Tidal Wetland Restoration Project Phase 2</SimpleData>
+		<SimpleData name="website">http://mckenzieriver.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">43.99</SimpleData>
+		<SimpleData name="x_coord">-124.027</SimpleData>
+		<SimpleData name="strt_date">12/1/2011</SimpleData>
+		<SimpleData name="end_date">12/1/2013</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;The Waite Ranch Tidal Wetland Restoration Project will lead to restoration of 217 acres of tidal wetlands in the lower Siuslaw River estuary. Funding for this project phase supports finalization of restoration designs, permitting and development of outreach materials. The overarching goal of the project is to restore habitat to include estuarine intertidal emergent, scrub-shrub and forested wetland characteristics. &quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Assessment, Planning, or Design; Baseline or Project Monitoring&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-124.027,43.99</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1019-E-OR-W</SimpleData>
+		<SimpleData name="funder">Tillamook Bay Watershed Council</SimpleData>
+		<SimpleData name="prj_name">Waldron Creek Enhancement Project</SimpleData>
+		<SimpleData name="website">http://www.tillamookbaywatershedcouncil.net/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">45.582989</SimpleData>
+		<SimpleData name="x_coord">-123.844328</SimpleData>
+		<SimpleData name="strt_date">5/3/2010</SimpleData>
+		<SimpleData name="end_date">5/31/2011</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;The Waldron Creek Enhancement Project replaced a 25-foot concrete bridge that was constricting stream flow with a new 50-foot channel-spanning steel bridge. Instream efforts included placement of 13 large wood structures. In conjunction, over 500 trees were planted to diversify composition of the hardwood-dominated riparian zone. &quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Culvert Replacement, Instream Log Jam Placement&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.844328,45.582989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1021-E-OR-WFB</SimpleData>
+		<SimpleData name="funder">Williams Creek Watershed Council</SimpleData>
+		<SimpleData name="prj_name">West Fork Williams Stream Restoration</SimpleData>
+		<SimpleData name="website">http://williamswatershed.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">42.183052</SimpleData>
+		<SimpleData name="x_coord">-123.340767</SimpleData>
+		<SimpleData name="strt_date">8/2/2010</SimpleData>
+		<SimpleData name="end_date">12/31/2011</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;Funding provided to the West Fork Williams Creek Project assisted instream restoration efforts along two miles of the West Fork of Williams Creek.  Log and boulder structures were placed to slow water, and develop backwater pools and deep scour pools.  These structures also provide places for gravel and sediment to collect and form complex habitat areas, effectively raising the streambed to pre-impact levels. &quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Instream Boulder Placement, Instream Large Wood Placement, Instream Log Jam Placement&quot;</SimpleData>
+		<SimpleData name="icon">Instream Restoration</SimpleData>
+		<SimpleData name="map_icon">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.340767,42.183052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1013-E-OR-F</SimpleData>
+		<SimpleData name="funder">North Fork John Day Watershed Council</SimpleData>
+		<SimpleData name="prj_name">Granite Creek Riparian Revegetation Project</SimpleData>
+		<SimpleData name="website">http://www.nfjdwc.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">44.796108</SimpleData>
+		<SimpleData name="x_coord">-118.438303</SimpleData>
+		<SimpleData name="strt_date">7/7/2010</SimpleData>
+		<SimpleData name="end_date">12/31/2011</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;The Granite Riparian Revegetation Project provides riparian re-vegetation and noxious weed control treatment efforts in the North Fork John Day basin. Work includes 2 miles of Granite Creek, 1 mile of Clear Creek, and 5 miles of decommissioned Forest Service roads in the Granite Creek Watershed. The project builds upon large-scale floodplain restoration efforts that have taken place in the Granite Creek Watershed over the last decade. &quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Riparian Planting and Revegetation, Riparian Plant Removal or Control, Upland Planting, Community Engagement&quot;</SimpleData>
+		<SimpleData name="icon">Riparian Restoration</SimpleData>
+		<SimpleData name="map_icon">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.438303,44.796108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1018-E-WA-F</SimpleData>
+		<SimpleData name="funder">Skagit River System Cooperative</SimpleData>
+		<SimpleData name="prj_name">Queensgate Floodplain and Riparian Restoration</SimpleData>
+		<SimpleData name="website">http://www.skagitcoop.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">48.331584</SimpleData>
+		<SimpleData name="x_coord">-121.545095</SimpleData>
+		<SimpleData name="strt_date">6/15/2010</SimpleData>
+		<SimpleData name="end_date">12/31/2012</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;The Queensgate Floodplain and Riparian Restoration Project restored and enhanced riparian vegetation conditions over approximately 50 acres within the Skagit Wild and Scenic River System. The project removed 3,900 feet of road surface fill material from floodplain swales, restoring floodplain connectivity and channel migration.  Existing conifer forest plantations received targeted thinning treatments, and noxious and non-native vegetation was removed in 3 acres of disturbed riparian areas and replanted with native species.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Road Decommissioned or Closed, Culvert Removal, Thinning, Riparian Planting and Revegetation, Riparian Plant Removal or Control,&quot;</SimpleData>
+		<SimpleData name="icon">Riparian Restoration</SimpleData>
+		<SimpleData name="map_icon">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.545095,48.331584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0808-E-OR-NWF</SimpleData>
+		<SimpleData name="funder">Stream Restoration Alliance of the Middle Rogue</SimpleData>
+		<SimpleData name="prj_name">Riparian Restoration &amp; Stewardship Project</SimpleData>
+		<SimpleData name="website">http://www.sramiddlerogue.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">42.230854</SimpleData>
+		<SimpleData name="x_coord">-123.256264</SimpleData>
+		<SimpleData name="strt_date">4/20/2009</SimpleData>
+		<SimpleData name="end_date">9/30/2011</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">Grant funding provided to The Middle Rogue Watershed Council's Riparian Stewardship Project involved 17 private landowners in restoration of riparian function on their properties.  The project goal was establishment of a healthy riparian forest buffer with adequate canopy coverage to keep stream temperatures low and limit bank erosion.</SimpleData>
+		<SimpleData name="rest_activity">&quot;Riparian Planting and Revegetation, Riparian Plant Removal or Control, Community Engagement&quot;</SimpleData>
+		<SimpleData name="icon">Riparian Restoration</SimpleData>
+		<SimpleData name="map_icon">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.256264,42.230854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1111-E-OR-WF</SimpleData>
+		<SimpleData name="funder">Sandy River Basin Watershed Council</SimpleData>
+		<SimpleData name="prj_name">Salmon River &amp; Still Creek Riparian Restoration</SimpleData>
+		<SimpleData name="website">http://www.sandyriver.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">45.272324</SimpleData>
+		<SimpleData name="x_coord">-121.937019</SimpleData>
+		<SimpleData name="strt_date">8/2/2011</SimpleData>
+		<SimpleData name="end_date">7/31/2013</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;This project will restore degraded campsite areas near a decommissioned road in the Salmon River watershed, and improve habitat conditions in the Summer Homes area of Still Creek. The goals of the project are to improve habitat conditions for salmon and steelhead by restoring 3 miles of degraded riparian habitat along the Salmon River and South Fork Salmon River and to restore 4 miles of Still Creek and its associated floodplain on National Forest Lands. Objectives include increased diversity in riparian forest stands, replanting and/or decommissioning of some campsites, and invasive species removal on the Salmon, and tree planting, invasive species removal, large wood placement, side channel reconnection and landowner outreach in Still Creek.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Dispersed Campgrounds Decommissioned, Riparian Planting and Revegetation, Instream Large Wood Placement, Instream Log Jam Placement, Community Engagement&quot;</SimpleData>
+		<SimpleData name="icon">Riparian Restoration</SimpleData>
+		<SimpleData name="map_icon">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.937019,45.272324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0908-E-OR-F</SimpleData>
+		<SimpleData name="funder">Sandy River Basin Watershed Council </SimpleData>
+		<SimpleData name="prj_name">Salmon River Side Channel Revegetation</SimpleData>
+		<SimpleData name="website">http://www.sandyriver.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">45.315606</SimpleData>
+		<SimpleData name="x_coord">-121.949453</SimpleData>
+		<SimpleData name="strt_date">8/18/2009</SimpleData>
+		<SimpleData name="end_date">5/31/2011</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;Grant funds supported revegetation of Salmon River historic side channels that were restored by the Forest Service, BLM and other partners. High school students from the greater Portland area installed native plants along three side channels, while contractors and other local volunteers performed invasive plant removal.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Riparian Planting and Revegetation, Riparian Plant Removal or Control, Community Engagement&quot;</SimpleData>
+		<SimpleData name="icon">Riparian Restoration</SimpleData>
+		<SimpleData name="map_icon">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.949453,45.315606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1014-E-WA-N</SimpleData>
+		<SimpleData name="funder">Northwest Watershed Institute</SimpleData>
+		<SimpleData name="prj_name">Tarboo Creek Stream and Wetland Restoration </SimpleData>
+		<SimpleData name="website">http://nwwatershed.org/</SimpleData>
+		<SimpleData name="loc_notes">GOOD-NEED CARTOGRAPHIC AIDE</SimpleData>
+		<SimpleData name="y_coord">47.882933</SimpleData>
+		<SimpleData name="x_coord">-122.819206</SimpleData>
+		<SimpleData name="strt_date">4/24/2010</SimpleData>
+		<SimpleData name="end_date">3/30/2011</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;The Tarboo Creek Stream and Wetland Restoration Project restored a ditched tributary to meandering wetlands. Work included removal of invasive blackberry and weeds and filling in of the old ditch to create a new meandering stream channel with large wood.  Following reconstruction, two major 'Plant-A-Thons' were held, where over 260 children and parents planted over 5,000 trees. &quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Wetland Enhancement, Wetland Restoration, Instream Large Wood Placement, Riparian Planting and Revegetation, Community Engagement&quot;</SimpleData>
+		<SimpleData name="icon">Riparian Restoration</SimpleData>
+		<SimpleData name="map_icon">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.819206,47.882933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1017-E-WA-N</SimpleData>
+		<SimpleData name="funder">Skagit Fisheries Enhancement Group</SimpleData>
+		<SimpleData name="prj_name">Upper Skagit Invasive Plant Control Project</SimpleData>
+		<SimpleData name="website">http://www.skagitfisheries.org/</SimpleData>
+		<SimpleData name="loc_notes">moved in GIS-not in LAT LONG DONE</SimpleData>
+		<SimpleData name="y_coord">48.283796</SimpleData>
+		<SimpleData name="x_coord">-121.347179</SimpleData>
+		<SimpleData name="strt_date">5/3/2010</SimpleData>
+		<SimpleData name="end_date">12/31/2011</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;The Upper Skagit Invasive Plant Control Project is an ongoing effort to control the invasive knotweed plant (polygonum cuspidatum) in the Upper Skagit watershed.  Since 2001, this long-term project has achieved 50% control of knotweed in the Upper Skagit watershed and has become a model project in Washington State. When the invasive knotweed is left untreated, healthy riparian areas are be unable to develop and habitat functions are lost.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Riparian Plant Removal or Control, Baseline or Project Monitoring&quot;</SimpleData>
+		<SimpleData name="icon">Riparian Restoration</SimpleData>
+		<SimpleData name="map_icon">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.347179,48.283796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0813-E-WA-NF</SimpleData>
+		<SimpleData name="funder">Skagit River System Cooperative</SimpleData>
+		<SimpleData name="prj_name">Big Creek Road Restoration</SimpleData>
+		<SimpleData name="website">http://www.skagitcoop.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">48.37</SimpleData>
+		<SimpleData name="x_coord">-121.42</SimpleData>
+		<SimpleData name="strt_date">7/2/2008</SimpleData>
+		<SimpleData name="end_date">10/31/2011</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;Grant funding to the Big Creek Sediment Reduction assisted the decommissioning of 8 miles of forest roads within the Suiattle River basin.  A total of 2.7 miles of road 2640, all 0.3 miles of road 2642016, and 5.0 miles of road 2643 were removed in the Big Creek watershed.  The sediment reduction efforts in Big Creek are important for Spring Chinook spawning and rearing habitat.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Road Decommissioned or Closed, Culvert Removal, Road Drainage Improvements, Riparian Planting and Revegetation&quot;</SimpleData>
+		<SimpleData name="icon">Sediment Reduction</SimpleData>
+		<SimpleData name="map_icon">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.42,48.37</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1113-E-WA-F</SimpleData>
+		<SimpleData name="funder">The Wilderness Society</SimpleData>
+		<SimpleData name="prj_name">Chewuch Transportation Plan &amp; Collaboration</SimpleData>
+		<SimpleData name="website">http://wilderness.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">48.747406</SimpleData>
+		<SimpleData name="x_coord">-120.136403</SimpleData>
+		<SimpleData name="strt_date">6/27/2011</SimpleData>
+		<SimpleData name="end_date">4/30/2013</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;The Wilderness Society (TWS) and the Forest Service's Methow Valley Ranger District (MVRD) are working together to reduce the environmental impacts of roads within the 334,600 acre Chewuch River basin on the Okanogan-Wenatchee National Forest.  The watersheds ~6081-mile road system, of which ~95% is within the 191,300 acre Lower Chewuch Watershed, is identified as a principal anthropogenic effect that diminishes critical habitat for three federally listed fish species: spring Chinook, steelhead and bull trout. During the next three years, TWS and MVRD will undertake a collaborative public process to inform road access decisions and begin to implement restoration projects in the Lower Chewuch Watershed. The Chewuch collaboration will provide a model for many other national forests that will soon be undertaking roads analyses in response to national Forest Service direction.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Community Engagement; Assessment, Planning, or Design&quot;</SimpleData>
+		<SimpleData name="icon">Sediment Reduction</SimpleData>
+		<SimpleData name="map_icon">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-120.136403,48.747406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0903-E-WA-NF</SimpleData>
+		<SimpleData name="funder">Gifford Pinchot Task Force</SimpleData>
+		<SimpleData name="prj_name">Clear Lewis Road Removal </SimpleData>
+		<SimpleData name="website">http://www.gptaskforce.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">46.171331</SimpleData>
+		<SimpleData name="x_coord">-121.98495</SimpleData>
+		<SimpleData name="strt_date">4/29/2009</SimpleData>
+		<SimpleData name="end_date">12/31/2010</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;This grant contributed to The Clear-Lewis Road Removal Project, which removed 7.9 miles of road to improve habitat for winter steelhead, spring Chinook, Coho and resident and cutthroat trout. The project expanded the unroaded area around the Spencer Ridge roadless area by 3,000 acres, benefiting deer, elk, wolves and other wildlife.  By removing these roads, the natural flow of water was restored for 10 perennial streams and the road density was reduced by 24% to approximately 1.27 miles/sq. mile.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Road Decommissioned or Closed, Road Drainage Improvements, Culvert Removal, Streambank Stabilization, Riparian Planting and Revegetation&quot;</SimpleData>
+		<SimpleData name="icon">Sediment Reduction</SimpleData>
+		<SimpleData name="map_icon">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.98495,46.171331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1112-E-OR-WF</SimpleData>
+		<SimpleData name="funder">Siuslaw Institute</SimpleData>
+		<SimpleData name="prj_name">Fivemile Bell Restoration Phase I</SimpleData>
+		<SimpleData name="website">http://www.siuslawinstitute.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">43.842108</SimpleData>
+		<SimpleData name="x_coord">-124.029028</SimpleData>
+		<SimpleData name="strt_date">9/18/2011</SimpleData>
+		<SimpleData name="end_date">8/31/2013</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;The Fivemile Bell Restoration Project is a planned 10-year phased restoration project that will phase in restorative actions to balance fish and wildlife needs. Phase I of project implementation will set the stage for rehabilitation of the uplands and valley bottom of this watershed. Activities for Phase I will include the repair of drainage features in the main valley road to allow equipment access for future restorative actions. Future restorative actions include placement of large wood with excavator and helicopter, reconstruction of stream channels, valley re-grading, re-establishment of native valley bottom vegetation, and decommissioning of old forest access roads and stream crossings throughout the uplands that are hampering ecological healing. &quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Road Decommissioned or Closed, Road Drainage Improvements, Culvert Removal, Instream Large Wood Placement, Riparian Planting and Revegetation, Riparian Plant Removal or Control&quot;</SimpleData>
+		<SimpleData name="icon">Sediment Reduction</SimpleData>
+		<SimpleData name="map_icon">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-124.029028,43.842108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1110-E-OR-F</SimpleData>
+		<SimpleData name="funder">Pacific Rivers Council</SimpleData>
+		<SimpleData name="prj_name">Stormproofing Sucker Creek</SimpleData>
+		<SimpleData name="website">http://pacificrivers.org/</SimpleData>
+		<SimpleData name="loc_notes">Place in centroid of Sucker Creek FWTRSHD</SimpleData>
+		<SimpleData name="y_coord">42.110897</SimpleData>
+		<SimpleData name="x_coord">-123.413048</SimpleData>
+		<SimpleData name="strt_date">6/27/2011</SimpleData>
+		<SimpleData name="end_date">4/30/2013</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;The long-term goal of this project is to reduce road-related sedimentation and habitat degradation from roads in the Sucker Creek watershed.  The primary activity supported by this grant is a field-based sediment source needs assessment to identify Forest Service road-related sediment sources, assess relative risks on a watershed scale, and evaluate treatment options. The secondary activity is development of technical design and implementation reviews of stormproofing treatments now in progress as a result of sediment source work done in 2010 for the Grayback Creek portion of the Sucker Creek watershed. &quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Assessment, Planning, or Design; Baseline or Project Monitoring; Community Engagement&quot;</SimpleData>
+		<SimpleData name="icon">Sediment Reduction</SimpleData>
+		<SimpleData name="map_icon">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.413048,42.110897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0907-E-OR-NF</SimpleData>
+		<SimpleData name="funder">Pacific Rivers Council </SimpleData>
+		<SimpleData name="prj_name">Sucker Creek Sediment Reduction</SimpleData>
+		<SimpleData name="website">http://pacificrivers.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">42.102661</SimpleData>
+		<SimpleData name="x_coord">-123.47049</SimpleData>
+		<SimpleData name="strt_date">4/24/2009</SimpleData>
+		<SimpleData name="end_date">12/31/2010</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">&quot;This grant provided funding for The Greyback Creek Sediment Source Assessment and Sediment Control Plan. This assessment of roads within the Grayback Creek watershed is being used by the Forest Service as the foundation for road remediation and removal efforts, and is also being employed in further planning efforts for the entire road system in the Sucker Creek watershed. Additionally, the Forest Service used the report to obtain funding for sediment remediation efforts from the Legacy Roads and Trails program.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Assessment, Planning, or Design; Community Engagement; Baseline or Project Monitoring&quot;</SimpleData>
+		<SimpleData name="icon">Sediment Reduction</SimpleData>
+		<SimpleData name="map_icon">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.47049,42.102661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">0814-E-WA-F</SimpleData>
+		<SimpleData name="funder">Skagit River System Cooperative</SimpleData>
+		<SimpleData name="prj_name">Tenas Creek Road Restoration</SimpleData>
+		<SimpleData name="website">http://www.skagitcoop.org/</SimpleData>
+		<SimpleData name="loc_notes"></SimpleData>
+		<SimpleData name="y_coord">48.32</SimpleData>
+		<SimpleData name="x_coord">-121.37</SimpleData>
+		<SimpleData name="strt_date">10/13/2008</SimpleData>
+		<SimpleData name="end_date">11/12/2009</SimpleData>
+		<SimpleData name="completed">1</SimpleData>
+		<SimpleData name="prj_desc">Funding to the Tenas Creek Sediment Reduction Project resulted in upgrading 4.1 miles and decommissioning 3.9 miles of Forest Road 2660 within the Suiattle River basin. The reduced sediment impacts in Tenas Creek are important for providing adequate habitat for Spring Chinook spawning and rearing. </SimpleData>
+		<SimpleData name="rest_activity">&quot;Road Decommissioned or Closed, Culvert Removal, Road Drainage Improvements, Riparian Planting and Revegetation&quot;</SimpleData>
+		<SimpleData name="icon">Sediment Reduction</SimpleData>
+		<SimpleData name="map_icon">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.37,48.32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#projects_kml">
+		<SimpleData name="grant_num">1109-E-OR-WF</SimpleData>
+		<SimpleData name="funder">North Fork John Day Watershed Council</SimpleData>
+		<SimpleData name="prj_name">Wall Creek Watershed Riparian  Restoration</SimpleData>
+		<SimpleData name="website">http://www.nfjdwc.org/</SimpleData>
+		<SimpleData name="loc_notes">ADDED xy</SimpleData>
+		<SimpleData name="y_coord">44.997517</SimpleData>
+		<SimpleData name="x_coord">-119.510262</SimpleData>
+		<SimpleData name="strt_date">8/8/2011</SimpleData>
+		<SimpleData name="end_date">7/31/2013</SimpleData>
+		<SimpleData name="completed">0</SimpleData>
+		<SimpleData name="prj_desc">&quot;This project will improve water quality and fish and wildlife habitat in the watershed through road decommissioning, native seedling planting, and riparian hardwood planting and caging. Two and four tenths miles of streamside roads adjacent to the headwaters of East Fork Alder Creek will be decommissioned to reduce soil compaction and erosion, improve hydrologic function, and encourage riparian vegetation growth. Native seed mix from existing stocks will be sown in the fall after decommissioning. Ten species of riparian hardwoods will be planted and caged at 100 sites on or adjacent to 20 miles of previously decommissioned and seeded streamside roads, and along 7 miles of streams without roads.&quot;</SimpleData>
+		<SimpleData name="rest_activity">&quot;Road Decommissioned or Closed, Culvert Removal, Riparian Planting and Revegetation, Upland Planting&quot;</SimpleData>
+		<SimpleData name="icon">Sediment Reduction</SimpleData>
+		<SimpleData name="map_icon">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.510262,44.997517</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

@@ -75,12 +75,12 @@
     </div>
     <script>
         /////////////////////// Begin Wax/ModestMaps config ///////////////////
-        var layername = 'wwri_mp3';
-        var url = 'http://tilestream.labs.ecotrust.org/api/Tileset/' + layername;
+        var layername = 'wwri';
+        var url = 'http://tilestream.apps.ecotrust.org/api/Tileset/' + layername;
         var tilejson = {
             tilejson: '1.0.0',
             scheme: 'tms',
-            tiles: ['http://tilestream.labs.ecotrust.org/1.0.0/'+ layername +'/{z}/{x}/{y}.png']
+            tiles: ['http://tilestream.apps.ecotrust.org/1.0.0/'+ layername +'/{z}/{x}/{y}.png']
         };
 
         var mm = com.modestmaps;
@@ -98,7 +98,7 @@
             wax.mm.fullscreen(m, tilejson).full()
             m.setCenterZoom(new mm.Location(45.5, -120.4), 6);
         });
-        /////////////////////// Begin Wax/ModestMaps config ///////////////////
+        /////////////////////// End Wax/ModestMaps config ///////////////////
 
         $('.share').click( function(e) {
             $('#share-popup').show();
