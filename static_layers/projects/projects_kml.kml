@@ -1255,3 +1255,2935 @@
       <Point><coordinates>-119.510262,44.997517</coordinates></Point>
   </Placemark>
 </Folder></Document></kml>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+   <Document xmlns:atom="http://purl.org/atom/ns#">
+      <name>geonode:wwri</name>
+      <Placemark id="wwri.1">
+         <name><![CDATA[wwri.1]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0819-E-OR-W</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Grant Soil and Water Conservation District</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Camp Creek Legacy Log Weir Removal Phase 1</span></li>
+  
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">44.66433</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-118.808525</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">4/15/2009</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Funding to Phase 1 of the Camp Creek Log Weir Removal Project addressed legacy</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Weir Removal, Instream Large Wood Placement"</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Barrier Removal</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">1</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-118.808525</longitude>
+            <latitude>44.66433</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc027fe9</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-118.808525,44.66433</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.2">
+         <name><![CDATA[wwri.2]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1003-E-OR-WF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Grant Soil and Water Conservation District</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Camp Creek Log Weir Removal Project Phase II</span></li>
+  
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">44.65279</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-118.826141</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">8/2/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Funding for phase two of the Camp Creek Log Weir Removal Project supported the</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Weir Removal, Instream Large Wood Placement"</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Barrier Removal</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">1</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-118.826141</longitude>
+            <latitude>44.65279</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc027fe9</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-118.826141,44.65279</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.3">
+         <name><![CDATA[wwri.3]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0818-EP-OR-WF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">USDA Forest Service- Malheur National Forest</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Camp Creek Watershed Culvert Replacement</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.fs.usda.gov/malheur/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">44.686096</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-118.796768</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">10/1/2008</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">9/30/2009</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"The Granite Boulder Creek Culvert Replacement Project replaced two side-by-side</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Culvert Replacement, Weir Removal"</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Barrier Removal</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">1</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-118.796768</longitude>
+            <latitude>44.686096</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc027fe9</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-118.796768,44.686096</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.4">
+         <name><![CDATA[wwri.4]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1101-E-WA-N</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Confederated Tribes and Bands of the Yakama Nation</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Condit Dam Riparian Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.yakamanation-nsn.gov/index.php</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">45.766667</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-121.516667</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">12/1/2011</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/1/2013</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Since 1913, the Condit Hydroelectric Project at rivermile 3.3 of the White Salm</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Large Dam Removal, Riparian Planting and Revegetation, Community Engagement"</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Barrier Removal</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">1</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-121.516667</longitude>
+            <latitude>45.766667</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc027fe9</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-121.516667,45.766667</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.5">
+         <name><![CDATA[wwri.5]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0905-E-OR-NWF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">North Fork John Day Watershed Council</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Desolation Creek Watershed Culvert Replacement</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.nfjdwc.org/</span></li>
+  <li><strong><span class="atr-name">loc_notes</span>:</strong> <span class="atr-value">fixed in the GIS-not in the LAT LONG DONE</span></li>
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">44.897305</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-118.795296</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">5/12/2009</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">9/30/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"The Bruin Creek Culvert Removal Project replaced a failed, perched culvert with</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Culvert Replacement, Streambank Stabilization "</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Barrier Removal</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">1</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-118.795296</longitude>
+            <latitude>44.897305</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc027fe9</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-118.795296,44.897305</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.6">
+         <name><![CDATA[wwri.6]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0804-E-OR-N</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Jackson County</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Gold Ray Dam Removal Sediment Study</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.co.jackson.or.us</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">42.433333</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-122.983889</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">7/16/2008</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2009</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"This grant funded a sediment study necessary to obtain permits for removal of t</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Baseline or Project Monitoring; Assessment, Planning, or Design"</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Barrier Removal</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">1</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-122.983889</longitude>
+            <latitude>42.433333</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc027fe9</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-122.983889,42.433333</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.7">
+         <name><![CDATA[wwri.7]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0801-E-OR-NF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Confederated Tribes of the Umatilla Indian Reservation</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Granite & Battle Creek Culvert Replacement</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.umatilla.nsn.us/salmon.html</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">44.851133</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-118.398533</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">6/30/2008</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">9/30/2010</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"This project replaced two culverts; one on Battle Creek, and another on Granite</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">Culvert Replacement</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Barrier Removal</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">1</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-118.398533</longitude>
+            <latitude>44.851133</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc027fe9</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-118.398533,44.851133</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.8">
+         <name><![CDATA[wwri.8]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1108-E-OR-NF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">North Fork John Day Watershed Council</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Granite Creek Watershed Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.nfjdwc.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">44.774846</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-118.457037</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">6/27/2011</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">4/30/2013</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">This effort along Granite Creek addresses the highest priority factors impacting</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Culvert Removal, Culvert Replacement, Riparian Planting and Revegetation, Mine</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Barrier Removal</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">1</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-118.457037</longitude>
+            <latitude>44.774846</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc027fe9</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-118.457037,44.774846</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.9">
+         <name><![CDATA[wwri.9]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0807-EP-WA-NF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Mid-Columbia Fisheries Enhancement Group</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Hemlock Dam Removal</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://midcolumbiarfeg.com/</span></li>
+  <li><strong><span class="atr-name">loc_notes</span>:</strong> <span class="atr-value">Moved in the GIS-not in LAT LONG DONE</span></li>
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">45.799225</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-121.903641</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">6/11/2008</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">10/15/2009</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Funding assisted with the removal of the Hemlock Dam on Trout Creek, a tributar</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">Large Dam Removal</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Barrier Removal</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">1</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-121.903641</longitude>
+            <latitude>45.799225</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc027fe9</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-121.903641,45.799225</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.10">
+         <name><![CDATA[wwri.10]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1114-E-OR-NW</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Wheeler Soil and Water Conservation District</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Lower Butte Creek Fish Passage</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.wheelerswcd.org/</span></li>
+  <li><strong><span class="atr-name">loc_notes</span>:</strong> <span class="atr-value">GOOD</span></li>
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">45.057222</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-120.369167</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">8/15/2011</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">7/31/2013</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Butte Creek is a high priority watershed for steelhead spawning and rearing. To</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Culvert Replacement, Livestock Management"</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Barrier Removal</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">1</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-120.369167</longitude>
+            <latitude>45.057222</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc027fe9</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-120.369167,45.057222</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.11">
+         <name><![CDATA[wwri.11]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0805-E-WA-N</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Mason Conservation District</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Skokomish Watershed Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.masoncd.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">47.402</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-123.24</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">9/18/2008</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2009</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">Grant funding assisted the Mason Bridge Project restoration of fish passage in G</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Culvert Replacement, Instream Rock Weir Placement, Instream Large Wood Placemen</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Barrier Removal</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">1</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-123.24</longitude>
+            <latitude>47.402</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc027fe9</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-123.24,47.402</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.12">
+         <name><![CDATA[wwri.12]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0910-E-WA-N</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Skagit River System Cooperative</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Turner's Bay Lagoon Reconnection</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.skagitcoop.org/</span></li>
+  <li><strong><span class="atr-name">loc_notes</span>:</strong> <span class="atr-value">GOOD</span></li>
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">48.45</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-122.55</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">5/29/2009</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">3/15/2012</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Grant funding provided to the Turner's Bay Lagoon Project is helping restore fi</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Tidegate Replacement or Removal, Road Decommissioned or Closed, Wetland Restora</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Barrier Removal</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">1</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-122.55</longitude>
+            <latitude>48.45</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc027fe9</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-122.55,48.45</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.13">
+         <name><![CDATA[wwri.13]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1010-EP-WA-NF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Mid-Columbia Fisheries Enhancement Group</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Wind River Watershed Fish Passage Improvement</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://midcolumbiarfeg.com/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">45.785186</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-121.946133</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">5/20/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">11/30/2012</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"The Wind River Watershed Fish Passage Improvement project decommissioned 2.5 mi</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Culvert Removal, Push-up or Diversion Dam Removal, Road Decommissioned or Close</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Barrier Removal</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">1</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-121.946133</longitude>
+            <latitude>45.785186</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc027fe9</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-121.946133,45.785186</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.14">
+         <name><![CDATA[wwri.14]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0815-E-OR-NF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">The Wetlands Conservancy</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Bayview Oxbow Reconnection Study</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://oregonwetlands.net/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">44.446283</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-124.043175</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">6/26/2008</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2009</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"This grant provided funding to the Wetlands Conservancy for the Bayview Oxbow R</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Baseline or Project Monitoring; Assessment, Planning, or Design"</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-124.043175</longitude>
+            <latitude>44.446283</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-124.043175,44.446283</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.15">
+         <name><![CDATA[wwri.15]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1106-E-OR-F</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">USDA Forest Service - Malheur National Forest</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Camp Creek Watershed Large Wood Placement</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.fs.usda.gov/malheur/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">44.63</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-118.826141</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">8/15/2011</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">6/30/2013</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Project activities will include felling of trees into Lick Creek to restore ins</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Instream Large Wood Placement, Thinning"</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-118.826141</longitude>
+            <latitude>44.63</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-118.826141,44.63</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.16">
+         <name><![CDATA[wwri.16]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1008-E-ID-N</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Latah Soil and Water Conservation District</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Corral Creek Racetrack Meadow Phase 1</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.latahsoil.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">46.803645</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-116.474948</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">4/13/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">6/30/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"All phases of this project will restore 0.21 stream miles of Corral Creek and 1</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Assessment, Planning, or Design; Baseline or Project Monitoring"</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-116.474948</longitude>
+            <latitude>46.803645</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-116.474948,46.803645</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.17">
+         <name><![CDATA[wwri.17]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1105-E-ID-N</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Latah Soil and Water Conservation District</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Corral Creek Racetrack Meadow Phase 2</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.latahsoil.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">46.824</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-116.49</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">12/1/2011</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/1/2013</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Phase 2 of the Corral Creek Racetrack project will include completion of the pe</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Assessment, Planning, or Design; Baseline or Project Monitoring"</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-116.49</longitude>
+            <latitude>46.824</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-116.49,46.824</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.18">
+         <name><![CDATA[wwri.18]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1107-E-WA-NF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Mount St. Helens Institute</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">East Fork Lewis and Muddy River Habitat Enhancement</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.mshinstitute.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">45.811394</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-122.139031</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">7/6/2011</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">6/30/2013</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"This project consists of habitat enhancement activities on both the East Fork L</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Instream Large Wood Placement, Instream Log Jam Placement, Instream Rootwad Pla</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-122.139031</longitude>
+            <latitude>45.811394</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-122.139031,45.811394</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.19">
+         <name><![CDATA[wwri.19]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1015-E-OR-NW</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Partnership for the Umpqua Rivers</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Elk Creek Watershed Salmon Recovery Project</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.umpquarivers.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">42.86</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-122.88</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">7/23/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">9/30/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Funding provided to the Elk Creek Watershed Salmon Recovery Project assists wit</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Instream Boulder Placement, Instream Large Wood Placement, Beaver Introduction</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-122.88</longitude>
+            <latitude>42.86</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-122.88,42.86</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.20">
+         <name><![CDATA[wwri.20]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1002-E-WA-N</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Columbia River Estuary Study Task Force (CREST)</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Grays River Whole Watershed Restoration Initiative</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.columbiaestuary.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">46.3692</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-123.5568</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">4/13/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">6/30/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"This phase of the Grays River Restoration Project began conceptual level restor</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Assessment, Planning, or Design; Baseline or Project Monitoring; Community Enga</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-123.5568</longitude>
+            <latitude>46.3692</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-123.5568,46.3692</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.21">
+         <name><![CDATA[wwri.21]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0820-EP-OR-WF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Partnership for the Umpqua Rivers</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Jackson Creek Watershed Restoration Phase 2</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.umpquarivers.org/</span></li>
+  <li><strong><span class="atr-name">loc_notes</span>:</strong> <span class="atr-value">Moved this point in GIS to more approximate location-FIXED LAT LONG FIELDS DONE</span></li>
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">42.992363</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-122.5429</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">7/8/2008</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2009</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Funding for Phase 2 of the Jackson Creek Restoration Project resulted in the in</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Instream Log Jam Placement, Instream Large Wood Placement, Instream Rootwad Pla</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-122.5429</longitude>
+            <latitude>42.992363</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-122.5429,42.992363</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.22">
+         <name><![CDATA[wwri.22]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0909-E-OR-F</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Siuslaw Watershed Council</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Knowles Creek Fish Passage Monitoring</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.siuslaw.org/</span></li>
+  <li><strong><span class="atr-name">loc_notes</span>:</strong> <span class="atr-value">Moved this point in the GIS-but not in LAT LONG yet DONE</span></li>
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">44.013226</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-123.784744</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">4/23/2009</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">9/30/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"This grant has helped to fund Knowles Creek long-term fish passage monitoring e</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Baseline or Project Monitoring, Community Engagement"</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-123.784744</longitude>
+            <latitude>44.013226</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-123.784744,44.013226</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.23">
+         <name><![CDATA[wwri.23]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1011-E-OR-NW</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Geos Institute</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Little Butte Creek Meander Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.geosinstitute.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">42.451389</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-122.869722</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">8/2/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">11/30/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"The Little Butte Creek Meander Restoration Project worked to restore a straight</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Stream Channel Reconfiguration, Off-channel Alcove Habitat Construction, Instre</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-122.869722</longitude>
+            <latitude>42.451389</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-122.869722,42.451389</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.24">
+         <name><![CDATA[wwri.24]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1020-E-WA-NF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Underwood Conservation District</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Little Wind River Community Habitat Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://w3.gorge.net/ucd/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">45.727732</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-121.791546</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">5/3/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"The Little Wind Community Habitat Restoration Project aims to restore processes</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Stream Channel Connectivity, Off-channel Habitat Construction, Instream Boulder</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-121.791546</longitude>
+            <latitude>45.727732</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-121.791546,45.727732</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.25">
+         <name><![CDATA[wwri.25]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0809-E-OR-W</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Stream Restoration Alliance of the Middle Rogue</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Louse Creek Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.sramiddlerogue.org/</span></li>
+  <li><strong><span class="atr-name">loc_notes</span>:</strong> <span class="atr-value">Correct</span></li>
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">42.516311</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-123.413811</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">4/20/2009</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/30/2009</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"This grant provided funding for phases 2 and 3 of the Louse Creek Restoration P</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Streambank Stabilization, Instream Boulder Placement, Instream Log Jam Placemen</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-123.413811</longitude>
+            <latitude>42.516311</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-123.413811,42.516311</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.26">
+         <name><![CDATA[wwri.26]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0812-E-WA-NF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Skagit Fisheries Enhancement Group</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Lower Finney Creek Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.skagitfisheries.org/</span></li>
+  <li><strong><span class="atr-name">loc_notes</span>:</strong> <span class="atr-value">GOOD</span></li>
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">48.5077</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-121.8044</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">6/10/2008</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2009</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Grant funding for the Lower Finney Creek Restoration Project placed 28 large wo</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Instream Large Wood Placement, Instream Log Jam Placement, Instream Rootwad Pla</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-121.8044</longitude>
+            <latitude>48.5077</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-121.8044,48.5077</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.27">
+         <name><![CDATA[wwri.27]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1004-EP-OR-WF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Confederated Tribes of the Warm Springs Reservation of Oregon</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">McGee Creek In-channel and Floodplain Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.warmsprings.com/warmsprings/Tribal_Services/Natural_Resources/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">45.45195</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-121.7769</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">11/2/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">10/31/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"This project is one component of a larger effort to restore natural processes i</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Instream Log Jam Placement, Instream Large Wood Placement, Instream Rootwad Pla</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-121.7769</longitude>
+            <latitude>45.45195</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-121.7769,45.45195</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.28">
+         <name><![CDATA[wwri.28]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0810-E-OR-NWF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">The Freshwater Trust</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Middle Fork John Day Channel Relocation Phase I</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.thefreshwatertrust.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">44.742031</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-118.850128</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">6/30/2008</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">10/31/2009</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"This grant provided funding to assist the Middle Fork John Day Channel Relocati</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Stream Channel Reconfiguration, Off-channel Alcove Habitat Construction, Instre</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-118.850128</longitude>
+            <latitude>44.742031</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-118.850128,44.742031</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.29">
+         <name><![CDATA[wwri.29]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0902-E-OR-F</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">The Freshwater Trust</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Middle Fork John Day Channel Relocation Phase II</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.thefreshwatertrust.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">44.729248</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-118.845085</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">5/18/2009</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2010</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">Grant funding for the Middle Fork John Day Channel Relocation and Riparian Resto</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Stream Channel Reconfiguration, Off-channel Alcove Habitat Construction, Instre</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-118.845085</longitude>
+            <latitude>44.729248</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-118.845085,44.729248</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.30">
+         <name><![CDATA[wwri.30]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1016-EP-OR-WF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Partnership for the Umpqua Rivers</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Middle/Upper Jackson Creek Salmon and Steelhead Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.umpquarivers.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">45.783333</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-122.75</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">8/16/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"The Middle/Upper Jackson Creek Salmon and Steelhead Restoration Project worked</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Instream Large Wood Placement, Instream Log Jam Placement"</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-122.75</longitude>
+            <latitude>45.783333</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-122.75,45.783333</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.31">
+         <name><![CDATA[wwri.31]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1001-E-WA-NF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Chelan County Natural Resource Department</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Nason N1 Oxbow Reconnection</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.co.chelan.wa.us/nr/default.asp</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">47.7612</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-120.7308</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">5/10/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">2/28/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"This grant funded a report by the Chelan County Natural Resources Department to</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Assessment, Planning, or Design; Baseline or Project Monitoring; Community Enga</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-120.7308</longitude>
+            <latitude>47.7612</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-120.7308,47.7612</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.32">
+         <name><![CDATA[wwri.32]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0901-E-OR-N</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Confederated Tribes of the Warm Springs Reservation of Oregon</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Oxbow Conservation Instream Habitat</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.warmsprings.com/warmsprings/Tribal_Services/Natural_Resources/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">44.652794</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-118.679267</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">4/9/2009</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2009</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Funding provided for The Oxbow Conservation Area Instream Habitat Project assis</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Dike or Levee Removal, Instream Boulder Placement, Instream Rootwad Placement,</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-118.679267</longitude>
+            <latitude>44.652794</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-118.679267,44.652794</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.33">
+         <name><![CDATA[wwri.33]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1102-E-OR-WF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Confederated Tribes of the Warm Springs Reservation of Oregon</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Oxbow Tailings Restoration Phases 1 & 2</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.warmsprings.com/warmsprings/Tribal_Services/Natural_Resources/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">44.642996</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-118.660752</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">7/6/2011</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">6/30/2013</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"This restoration project will address the most degraded segment of aquatic habi</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Stream Channel Connectivity, Stream Channel Reconfiguration, Dike or Levee Remo</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-118.660752</longitude>
+            <latitude>44.642996</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-118.660752,44.642996</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.34">
+         <name><![CDATA[wwri.34]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1005-EP-OR-WF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Coquille Watershed Association</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Restoring Salmonid Habitat & Stream Dynamics in Rock Creek Phase II</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.coquillewatershed.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">42.709444</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-124.056944</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">7/14/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Phase II of this project on Rock Creek of the South Fork Coquille watershed inc</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Instream Log Jam Placement, Instream Large Wood Placement, Instream Boulder Pla</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-124.056944</longitude>
+            <latitude>42.709444</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-124.056944,42.709444</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.35">
+         <name><![CDATA[wwri.35]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1006-E-OR-N</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">The Freshwater Trust</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Rudio Creek Ranch Habitat Restoration Project</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.thefreshwatertrust.org/</span></li>
+  <li><strong><span class="atr-name">loc_notes</span>:</strong> <span class="atr-value">GOOD</span></li>
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">44.743869</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-119.543578</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">5/3/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"The Rudio Creek Ranch Restoration Project is a large-scale effort to restore th</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Stream Channel Reconfiguration; Off-channel Pond Habitat Construction; Baseline</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-119.543578</longitude>
+            <latitude>44.743869</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-119.543578,44.743869</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.36">
+         <name><![CDATA[wwri.36]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0806-EP-WA-NF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Methow Conservancy</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Salmon Habitat Restoration Through Beaver Reintroduction</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.methowconservancy.org</span></li>
+  <li><strong><span class="atr-name">loc_notes</span>:</strong> <span class="atr-value">Kate is verifying location DONE</span></li>
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">48.547436</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-120.184715</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">5/14/2008</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">9/30/2009</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"This grant supported the Methow Conservancy's efforts to use beavers to restore</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Beaver Introduction or Management, Community Engagement"</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-120.184715</longitude>
+            <latitude>48.547436</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-120.184715,48.547436</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.37">
+         <name><![CDATA[wwri.37]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0817-EP-OR-WF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">USDA Forest Service - Mt. Hood National Forest</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Salmon River Side Channel Reconnection</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.fs.usda.gov/mthood/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">45.349899</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-121.989799</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">6/15/2008</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">11/30/2010</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Funding provided to the Salmon River Watershed Restoration Project assisted in</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Side-channel Habitat Construction, Off-channel Alcove Habitat Construction, Ins</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-121.989799</longitude>
+            <latitude>45.349899</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-121.989799,45.349899</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.38">
+         <name><![CDATA[wwri.38]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0802-EP-OR-WF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Coquille Watershed Association</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">South Fork Coquille Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.coquillewatershed.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">42.909444</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-124.056944</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">8/19/2008</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">11/30/2009</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"This project placed 22 log and bolder structures in Rock Creek, improving spawn</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Instream Boulder Placement, Instream Large Wood Placement, Instream Log Jam Pla</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-124.056944</longitude>
+            <latitude>42.909444</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-124.056944,42.909444</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.39">
+         <name><![CDATA[wwri.39]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1012-E-ID-N</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Nez Perce Tribe</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Spring Creek Wetland and Riparian Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.nezperce.org/Official/departmentofnaturalresources.htm</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">46.389242</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-116.793139</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">8/23/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">4/30/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">The Spring Creek Wetland and Riparian Restoration Spring Project restored natura</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Wetland Restoration, Wetland Management, Riparian Planting and Revegetation, Pu</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-116.793139</longitude>
+            <latitude>46.389242</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-116.793139,46.389242</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.40">
+         <name><![CDATA[wwri.40]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0803-EP-OR-WF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Illinois Valley Watershed Council</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Sucker Creek Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.ivstreamteam.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">42.139652</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-123.456406</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">6/11/2008</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2009</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"This Greyback/Sucker Creek Restoration Project involved removal of hazard trees</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">Instream Log Jam Placement</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-123.456406</longitude>
+            <latitude>42.139652</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-123.456406,42.139652</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.41">
+         <name><![CDATA[wwri.41]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1103-E-OR-F</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Illinois Valley Soil and Water Conservation District</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Sucker Creek Restoration Phase 2A</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.ivstreamteam.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">42.160488</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-123.515152</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">6/27/2011</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">4/30/2013</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Phase 2A of the Sucker Creek project aims to continue work immediately downstre</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Stream Channel Connectivity, Stream Channel Reconfiguration, Off-channel Habita</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-123.515152</longitude>
+            <latitude>42.160488</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-123.515152,42.160488</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.42">
+         <name><![CDATA[wwri.42]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1007-E-OR-F</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Illinois Valley Watershed Council</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Sucker Creek Restoration Phase II</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.ivstreamteam.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">42.163456</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-123.497826</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">4/6/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">5/30/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Phase II of the Sucker Creek Restoration Project continued work just downstream</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Stream Channel Reconfiguration, Road Decommissioned or Closed, Instream Log Jam</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-123.497826</longitude>
+            <latitude>42.163456</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-123.497826,42.163456</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.43">
+         <name><![CDATA[wwri.43]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0904-EP-OR-NF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Illinois Valley Watershed Council</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Sucker Creek Stream Restoration Phase I</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.ivstreamteam.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">42.157719</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-123.474335</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">5/29/2009</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2010</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">This grant provided funding to phase one of the Sucker Creek Stream Restoration</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Off-channel Pond Habitat Construction, Side-channel Habitat Construction, Ripar</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-123.474335</longitude>
+            <latitude>42.157719</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-123.474335,42.157719</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.44">
+         <name><![CDATA[wwri.44]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0906-E-WA-N</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Northwest Watershed Institute</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Tarboo Creek Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://nwwatershed.org/</span></li>
+  <li><strong><span class="atr-name">loc_notes</span>:</strong> <span class="atr-value">GOOD-NEED CARTOGRAPHIC AIDE</span></li>
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">47.887367</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-122.820175</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">4/24/2009</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">5/31/2010</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Funding to the Tarboo Creek Restoration Project provided enhancement of 30 acre</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Culvert Removal, Road Decommissioned or Closed, Wetland Restoration, Instream L</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-122.820175</longitude>
+            <latitude>47.887367</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-122.820175,47.887367</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.45">
+         <name><![CDATA[wwri.45]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0816-EP-OR-WF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">USDA Forest Service - Mt. Hood National Forest</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Upper Middle Fork Hood River Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.fs.usda.gov/mthood/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">45.465556</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-121.637778</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">4/1/2008</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">11/30/2009</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">Funding to the Clear Branch Creek Project assisted instream and floodplain resto</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Instream Large Wood Placement, Instream Rootwad Placement"</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-121.637778</longitude>
+            <latitude>45.465556</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-121.637778,45.465556</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.46">
+         <name><![CDATA[wwri.46]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0811-E-OR-WF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Partnership for the Umpqua Rivers</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Upper South Umpqua River Restoration Phase 2</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.umpquarivers.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">43.14275</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-122.54335</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">6/21/2008</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">9/30/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"This grant provided funding for Phase 2 of the Upper South Umpqua Instream Rest</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Instream Large Wood Placement, Instream Log Jam Placement, Instream Rootwad Pla</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-122.54335</longitude>
+            <latitude>43.14275</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-122.54335,43.14275</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.47">
+         <name><![CDATA[wwri.47]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1009-E-OR-N</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">McKenzie River Trust</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Waite Ranch Tidal Wetland Restoration Project</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://mckenzieriver.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">43.99</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-124.027</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">5/19/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">9/30/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"The Waite Ranch Tidal Wetland Restoration Project will lead to restoration of 2</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Assessment, Planning, or Design; Baseline or Project Monitoring"</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-124.027</longitude>
+            <latitude>43.99</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-124.027,43.99</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.48">
+         <name><![CDATA[wwri.48]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1104-E-OR-N</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">McKenzie River Trust</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Waite Ranch Tidal Wetland Restoration Project Phase 2</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://mckenzieriver.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">43.99</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-124.027</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">12/1/2011</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/1/2013</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"The Waite Ranch Tidal Wetland Restoration Project will lead to restoration of 2</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Assessment, Planning, or Design; Baseline or Project Monitoring"</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-124.027</longitude>
+            <latitude>43.99</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-124.027,43.99</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.49">
+         <name><![CDATA[wwri.49]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1019-E-OR-W</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Tillamook Bay Watershed Council</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Waldron Creek Enhancement Project</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.tillamookbaywatershedcouncil.net/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">45.582989</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-123.844328</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">5/3/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">5/31/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"The Waldron Creek Enhancement Project replaced a 25-foot concrete bridge that w</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Culvert Replacement, Instream Log Jam Placement"</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-123.844328</longitude>
+            <latitude>45.582989</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-123.844328,45.582989</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.50">
+         <name><![CDATA[wwri.50]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1021-E-OR-WFB</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Williams Creek Watershed Council</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">West Fork Williams Stream Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://williamswatershed.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">42.183052</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-123.340767</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">8/2/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Funding provided to the West Fork Williams Creek Project assisted instream rest</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Instream Boulder Placement, Instream Large Wood Placement, Instream Log Jam Pla</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Instream Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">2</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-123.340767</longitude>
+            <latitude>42.183052</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>ccd38d0e</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-123.340767,42.183052</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.51">
+         <name><![CDATA[wwri.51]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1013-E-OR-F</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">North Fork John Day Watershed Council</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Granite Creek Riparian Revegetation Project</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.nfjdwc.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">44.796108</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-118.438303</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">7/7/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"The Granite Riparian Revegetation Project provides riparian re-vegetation and n</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Riparian Planting and Revegetation, Riparian Plant Removal or Control, Upland P</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Riparian Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">3</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-118.438303</longitude>
+            <latitude>44.796108</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc7adf52</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-118.438303,44.796108</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.52">
+         <name><![CDATA[wwri.52]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1018-E-WA-F</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Skagit River System Cooperative</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Queensgate Floodplain and Riparian Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.skagitcoop.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">48.331584</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-121.545095</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">6/15/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2012</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"The Queensgate Floodplain and Riparian Restoration Project restored and enhance</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Road Decommissioned or Closed, Culvert Removal, Thinning, Riparian Planting and</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Riparian Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">3</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-121.545095</longitude>
+            <latitude>48.331584</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc7adf52</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-121.545095,48.331584</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.53">
+         <name><![CDATA[wwri.53]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0808-E-OR-NWF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Stream Restoration Alliance of the Middle Rogue</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Riparian Restoration & Stewardship Project</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.sramiddlerogue.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">42.230854</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-123.256264</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">4/20/2009</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">9/30/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">Grant funding provided to The Middle Rogue Watershed Council's Riparian Stewards</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Riparian Planting and Revegetation, Riparian Plant Removal or Control, Communit</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Riparian Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">3</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-123.256264</longitude>
+            <latitude>42.230854</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc7adf52</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-123.256264,42.230854</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.54">
+         <name><![CDATA[wwri.54]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1111-E-OR-WF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Sandy River Basin Watershed Council</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Salmon River & Still Creek Riparian Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.sandyriver.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">45.272324</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-121.937019</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">8/2/2011</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">7/31/2013</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"This project will restore degraded campsite areas near a decommissioned road in</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Dispersed Campgrounds Decommissioned, Riparian Planting and Revegetation, Instr</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Riparian Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">3</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-121.937019</longitude>
+            <latitude>45.272324</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc7adf52</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-121.937019,45.272324</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.55">
+         <name><![CDATA[wwri.55]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0908-E-OR-F</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Sandy River Basin Watershed Council</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Salmon River Side Channel Revegetation</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.sandyriver.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">45.315606</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-121.949453</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">8/18/2009</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">5/31/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Grant funds supported revegetation of Salmon River historic side channels that</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Riparian Planting and Revegetation, Riparian Plant Removal or Control, Communit</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Riparian Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">3</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-121.949453</longitude>
+            <latitude>45.315606</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc7adf52</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-121.949453,45.315606</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.56">
+         <name><![CDATA[wwri.56]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1014-E-WA-N</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Northwest Watershed Institute</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Tarboo Creek Stream and Wetland Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://nwwatershed.org/</span></li>
+  <li><strong><span class="atr-name">loc_notes</span>:</strong> <span class="atr-value">GOOD-NEED CARTOGRAPHIC AIDE</span></li>
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">47.882933</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-122.819206</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">4/24/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">3/30/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"The Tarboo Creek Stream and Wetland Restoration Project restored a ditched trib</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Wetland Enhancement, Wetland Restoration, Instream Large Wood Placement, Ripari</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Riparian Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">3</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-122.819206</longitude>
+            <latitude>47.882933</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc7adf52</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-122.819206,47.882933</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.57">
+         <name><![CDATA[wwri.57]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1017-E-WA-N</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Skagit Fisheries Enhancement Group</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Upper Skagit Invasive Plant Control Project</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.skagitfisheries.org/</span></li>
+  <li><strong><span class="atr-name">loc_notes</span>:</strong> <span class="atr-value">moved in GIS-not in LAT LONG DONE</span></li>
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">48.283796</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-121.347179</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">5/3/2010</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"The Upper Skagit Invasive Plant Control Project is an ongoing effort to control</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Riparian Plant Removal or Control, Baseline or Project Monitoring"</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Riparian Restoration</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">3</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-121.347179</longitude>
+            <latitude>48.283796</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc7adf52</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-121.347179,48.283796</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.58">
+         <name><![CDATA[wwri.58]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0813-E-WA-NF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Skagit River System Cooperative</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Big Creek Road Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.skagitcoop.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">48.37</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-121.42</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">7/2/2008</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">10/31/2011</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"Grant funding to the Big Creek Sediment Reduction assisted the decommissioning</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Road Decommissioned or Closed, Culvert Removal, Road Drainage Improvements, Rip</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Sediment Reduction</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">4</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-121.42</longitude>
+            <latitude>48.37</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc35d0ff</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-121.42,48.37</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.59">
+         <name><![CDATA[wwri.59]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1113-E-WA-F</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">The Wilderness Society</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Chewuch Transportation Plan & Collaboration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://wilderness.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">48.747406</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-120.136403</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">6/27/2011</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">4/30/2013</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"The Wilderness Society (TWS) and the Forest Service's Methow Valley Ranger Dist</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Community Engagement; Assessment, Planning, or Design"</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Sediment Reduction</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">4</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-120.136403</longitude>
+            <latitude>48.747406</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc35d0ff</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-120.136403,48.747406</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.60">
+         <name><![CDATA[wwri.60]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0903-E-WA-NF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Gifford Pinchot Task Force</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Clear Lewis Road Removal</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.gptaskforce.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">46.171331</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-121.98495</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">4/29/2009</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2010</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"This grant contributed to The Clear-Lewis Road Removal Project, which removed 7</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Road Decommissioned or Closed, Road Drainage Improvements, Culvert Removal, Str</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Sediment Reduction</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">4</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-121.98495</longitude>
+            <latitude>46.171331</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc35d0ff</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-121.98495,46.171331</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.61">
+         <name><![CDATA[wwri.61]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1112-E-OR-WF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Siuslaw Institute</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Fivemile Bell Restoration Phase I</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.siuslawinstitute.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">43.842108</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-124.029028</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">9/18/2011</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">8/31/2013</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"The Fivemile Bell Restoration Project is a planned 10-year phased restoration p</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Road Decommissioned or Closed, Road Drainage Improvements, Culvert Removal, Ins</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Sediment Reduction</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">4</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-124.029028</longitude>
+            <latitude>43.842108</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc35d0ff</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-124.029028,43.842108</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.62">
+         <name><![CDATA[wwri.62]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1110-E-OR-F</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Pacific Rivers Council</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Stormproofing Sucker Creek</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://pacificrivers.org/</span></li>
+  <li><strong><span class="atr-name">loc_notes</span>:</strong> <span class="atr-value">Place in centroid of Sucker Creek FWTRSHD</span></li>
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">42.110897</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-123.413048</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">6/27/2011</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">4/30/2013</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"The long-term goal of this project is to reduce road-related sedimentation and</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Assessment, Planning, or Design; Baseline or Project Monitoring; Community Enga</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Sediment Reduction</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">4</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-123.413048</longitude>
+            <latitude>42.110897</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc35d0ff</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-123.413048,42.110897</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.63">
+         <name><![CDATA[wwri.63]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0907-E-OR-NF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Pacific Rivers Council</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Sucker Creek Sediment Reduction</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://pacificrivers.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">42.102661</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-123.47049</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">4/24/2009</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">12/31/2010</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"This grant provided funding for The Greyback Creek Sediment Source Assessment a</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Assessment, Planning, or Design; Community Engagement; Baseline or Project Moni</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Sediment Reduction</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">4</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-123.47049</longitude>
+            <latitude>42.102661</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc35d0ff</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-123.47049,42.102661</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.64">
+         <name><![CDATA[wwri.64]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">0814-E-WA-F</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">Skagit River System Cooperative</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Tenas Creek Road Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.skagitcoop.org/</span></li>
+  
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">48.32</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-121.37</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">10/13/2008</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">11/12/2009</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">Funding to the Tenas Creek Sediment Reduction Project resulted in upgrading 4.1</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Road Decommissioned or Closed, Culvert Removal, Road Drainage Improvements, Rip</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Sediment Reduction</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">4</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-121.37</longitude>
+            <latitude>48.32</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc35d0ff</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-121.37,48.32</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="wwri.65">
+         <name><![CDATA[wwri.65]]></name>
+         <description><![CDATA[<h4>wwri</h4>
+
+<ul class="textattributes">
+  
+  <li><strong><span class="atr-name">grant_num</span>:</strong> <span class="atr-value">1109-E-OR-WF</span></li>
+  <li><strong><span class="atr-name">funder</span>:</strong> <span class="atr-value">North Fork John Day Watershed Council</span></li>
+  <li><strong><span class="atr-name">prj_name</span>:</strong> <span class="atr-value">Wall Creek Watershed Riparian  Restoration</span></li>
+  <li><strong><span class="atr-name">website</span>:</strong> <span class="atr-value">http://www.nfjdwc.org/</span></li>
+  <li><strong><span class="atr-name">loc_notes</span>:</strong> <span class="atr-value">ADDED xy</span></li>
+  <li><strong><span class="atr-name">y_coord</span>:</strong> <span class="atr-value">44.997517</span></li>
+  <li><strong><span class="atr-name">x_coord</span>:</strong> <span class="atr-value">-119.510262</span></li>
+  <li><strong><span class="atr-name">strt_date</span>:</strong> <span class="atr-value">8/8/2011</span></li>
+  <li><strong><span class="atr-name">end_date</span>:</strong> <span class="atr-value">7/31/2013</span></li>
+  <li><strong><span class="atr-name">completed</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">prj_desc</span>:</strong> <span class="atr-value">"This project will improve water quality and fish and wildlife habitat in the wa</span></li>
+  <li><strong><span class="atr-name">rest_activ</span>:</strong> <span class="atr-value">"Road Decommissioned or Closed, Culvert Removal, Riparian Planting and Revegetat</span></li>
+  <li><strong><span class="atr-name">icon</span>:</strong> <span class="atr-value">Sediment Reduction</span></li>
+  <li><strong><span class="atr-name">map_icon</span>:</strong> <span class="atr-value">4</span></li>
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>-119.510262</longitude>
+            <latitude>44.997517</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>cc35d0ff</color>
+               <colorMode>normal</colorMode>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <coordinates>-119.510262,44.997517</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>
