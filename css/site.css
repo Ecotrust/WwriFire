@@ -63,7 +63,6 @@ a[href$=".pdf"] {
 }
 
 .wax-popup {
-    margin-top: 5px !important; 
     max-width: 600px !important;
     width: 525px !important;
     left: none !important;
@@ -73,7 +72,6 @@ a[href$=".pdf"] {
     border: 1px solid #BBB;
     border-radius: 6px 6px 6px 6px;
     box-shadow: 2px 2px 22px #DDDDDD;
-    margin-right: 160px !important;
 }
 
 .share-popup{
