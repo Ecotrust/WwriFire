@@ -168,3 +168,9 @@ td {
 a { 
     text-decoration: none; 
 }
+
+ul {
+    line-height: 1.6em;
+    font-size: 0.9em;
+    margin-bottom: 1em;
+}
